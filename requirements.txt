@@ -1,0 +1,7 @@
+torch
+torchvision
+efficientnet_pytorch
+opencv-python
+numpy
+pandas
+scikit-learn
