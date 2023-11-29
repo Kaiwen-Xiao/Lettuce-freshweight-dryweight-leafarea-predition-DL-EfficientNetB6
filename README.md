@@ -3,7 +3,7 @@ A simple implementation for a course project.
 
 The topic is to predict the fresh weight, dry weight, and leaf area with EfficientNet B7 to advance production in controlled environments such as greenhouses and vertical farms.  
 
-The image dataset and ground truth download link is here: https://library.wur.nl/WebQuery/wurpubs/586469  Be advised, the RGB_277/309/322.png are missing, so are Depth_277/309/322.png
+The image dataset and ground truth download link is here: https://library.wur.nl/WebQuery/wurpubs/586469  Be advised, the RGB_277/309/322.png are missing, so are Depth_277/309/322.png.
 
 To run this code, you need:
 1. The source code (project.py)
@@ -18,7 +18,7 @@ To run this code, you need:
 ![image](https://github.com/Kaiwen-Xiao/Lettuce-freshweight-dryweight-leafarea-predition-DL-EfficientNetB6/assets/126135993/a5018e0e-25aa-4b37-9978-a3a68756f3df)
 ![image](https://github.com/Kaiwen-Xiao/Lettuce-freshweight-dryweight-leafarea-predition-DL-EfficientNetB6/assets/126135993/02b63dd0-dc41-4b4d-9e9e-52af729f3402)
 
-Reference
+Reference:
 
 Tan, M., & Le, Q. (2019, May). Efficientnet: Rethinking model scaling for convolutional neural networks. In International conference on machine learning (pp. 6105-6114). PMLR.
 
