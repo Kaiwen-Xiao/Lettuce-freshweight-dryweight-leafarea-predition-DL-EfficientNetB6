@@ -15,13 +15,21 @@ To run this code, you need:
 ![image](https://github.com/Kaiwen-Xiao/Lettuce-freshweight-dryweight-leafarea-predition-DL-EfficientNetB6/assets/126135993/02b63dd0-dc41-4b4d-9e9e-52af729f3402)
 
 Reference
+
 Tan, M., & Le, Q. (2019, May). Efficientnet: Rethinking model scaling for convolutional neural networks. In International conference on machine learning (pp. 6105-6114). PMLR.
+
 Hemming, S., de Zwart, H. F., Elings, A., Bijlaard, M., van Marrewijk, B., & Petropoulou, A. (2021). 3rd Autonomous Greenhouse Challenge: Online Challenge Lettuce Images.
+
 Lin, Z., Fu, R., Ren, G., Zhong, R., Ying, Y., & Lin, T. (2022). Automatic monitoring of lettuce fresh weight by multi-modal fusion based deep learning. Frontiers in Plant Science, 13, 980581.
+
 Lauguico, S., Concepcion, R., Tobias, R. R., Alejandrino, J., De Guia, J., Guillermo, M., ... & Dadios, E. (2020, December). Machine vision-based prediction of lettuce phytomorphological descriptors using deep learning networks. In 2020 IEEE 12th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM) (pp. 1-6). IEEE.
+
 Bakker, J. C., Bot, G. P. A., Challa, H., & Van de Braak, N. J. (Eds.). (1995). Greenhouse climate control: an integrated approach. Wageningen Academic Publishers.
+
 Fu, L., Gao, F., Wu, J., Li, R., Karkee, M., & Zhang, Q. (2020). Application of consumer RGB-D cameras for fruit detection and localization in field: A critical review. Computers and Electronics in Agriculture, 177, 105687.
+
 He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+
 Bauer, A., Bostrom, A. G., Ball, J., Applegate, C., Cheng, T., Laycock, S., ... & Zhou, J. (2019). Combining computer vision and deep learning to enable ultra-scale aerial phenotyping and precision agriculture: A case study of lettuce production. Horticulture research, 6.
 
 
