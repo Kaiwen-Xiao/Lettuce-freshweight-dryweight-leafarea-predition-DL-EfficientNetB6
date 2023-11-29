@@ -1,6 +1,10 @@
 # Lettuce-freshweight-dryweight-leafarea-predition-DL-EfficientNetB6
-A simple implementation for a course project. The topic is to predict the fresh weight, dry weight, and leaf area with EfficientNet B7 to advance production in controlled environments such as greenhouses and vertical farms.  
+A simple implementation for a course project. 
+
+The topic is to predict the fresh weight, dry weight, and leaf area with EfficientNet B7 to advance production in controlled environments such as greenhouses and vertical farms.  
+
 The image dataset and ground truth download link is here: https://library.wur.nl/WebQuery/wurpubs/586469  Be advised, the RGB_277/309/322.png are missing, so are Depth_277/309/322.png
+
 To run this code, you need:
 1. The source code (project.py)
 2. The image dataset: Downloaded link: https://library.wur.nl/WebQuery/wurpubs/586469
