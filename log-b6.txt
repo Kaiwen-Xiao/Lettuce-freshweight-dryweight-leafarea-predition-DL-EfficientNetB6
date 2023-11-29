@@ -1,0 +1,2748 @@
+Epoch 6/25: Loss: 182203.8856 - Val Loss: 22738358.4615 - Val RMSE: 4768.4754 - Val R^2: -27.0037
+Epoch 7/25: Loss: 180404.1900 - Val Loss: 94656438.1538 - Val RMSE: 9729.1533 - Val R^2: -113.4201
+Epoch 8/25: Loss: 136860.2774 - Val Loss: 16190270.7949 - Val RMSE: 4023.7132 - Val R^2: -13.2316
+Epoch 9/25: Loss: 172580.8109 - Val Loss: 13134957.4359 - Val RMSE: 3624.2184 - Val R^2: -7.3486
+Epoch 10/25: Loss: 117377.0941 - Val Loss: 1134852.5577 - Val RMSE: 1065.2946 - Val R^2: -15.7953
+Epoch 11/25: Loss: 134439.1625 - Val Loss: 2768993.2196 - Val RMSE: 1664.0291 - Val R^2: -9.0980
+Epoch 12/25: Loss: 115034.5396 - Val Loss: 1317744.9824 - Val RMSE: 1147.9307 - Val R^2: -2.6305
+Epoch 13/25: Loss: 118832.3720 - Val Loss: 1799348.5032 - Val RMSE: 1341.3978 - Val R^2: -1.2860
+Epoch 14/25: Loss: 132829.9868 - Val Loss: 425550.1330 - Val RMSE: 652.3421 - Val R^2: -1.2991
+Epoch 15/25: Loss: 147472.7117 - Val Loss: 507005.4487 - Val RMSE: 712.0432 - Val R^2: -1.4538
+Epoch 16/25: Loss: 111490.5854 - Val Loss: 337687.7676 - Val RMSE: 581.1091 - Val R^2: -0.3653
+Epoch 17/25: Loss: 151105.1929 - Val Loss: 3118597.7147 - Val RMSE: 1765.9552 - Val R^2: -7.5209
+Epoch 18/25: Loss: 110888.7600 - Val Loss: 1355940.8237 - Val RMSE: 1164.4486 - Val R^2: -4.3279
+Epoch 19/25: Loss: 126095.7645 - Val Loss: 674351.7660 - Val RMSE: 821.1892 - Val R^2: -2.2198
+Epoch 20/25: Loss: 113312.8764 - Val Loss: 829514.0873 - Val RMSE: 910.7766 - Val R^2: -0.6025
+Epoch 21/25: Loss: 147545.1408 - Val Loss: 185274.0296 - Val RMSE: 430.4347 - Val R^2: -1.4053
+Epoch 22/25: Loss: 120555.5060 - Val Loss: 113506.0381 - Val RMSE: 336.9066 - Val R^2: -11.3817
+Epoch 23/25: Loss: 144964.7594 - Val Loss: 606391.9111 - Val RMSE: 778.7116 - Val R^2: -8.7450
+Epoch 24/25: Loss: 134386.4868 - Val Loss: 231247.3301 - Val RMSE: 480.8818 - Val R^2: -1.5189
+Epoch 25/25: Loss: 97859.1378 - Val Loss: 243442.2508 - Val RMSE: 493.3987 - Val R^2: 0.5193
+Adam mode Start
+Epoch 0/25: Loss: 102078.4180 - Val Loss: 236984.7019 - Val RMSE: 486.8107 - Val R^2: 0.1001
+Epoch 1/25: Loss: 105568.6115 - Val Loss: 405282.1026 - Val RMSE: 636.6177 - Val R^2: -0.2163
+Epoch 2/25: Loss: 99912.6842 - Val Loss: 655420.9175 - Val RMSE: 809.5807 - Val R^2: 0.3490
+Epoch 3/25: Loss: 101784.4759 - Val Loss: 674972.7300 - Val RMSE: 821.5673 - Val R^2: -0.5563
+Epoch 4/25: Loss: 100982.9697 - Val Loss: 2988670.9038 - Val RMSE: 1728.7773 - Val R^2: -4.1590
+Epoch 5/25: Loss: 89109.3218 - Val Loss: 234865.0088 - Val RMSE: 484.6287 - Val R^2: 0.7002
+Epoch 6/25: Loss: 77169.4840 - Val Loss: 453557.9355 - Val RMSE: 673.4671 - Val R^2: -0.2696
+Epoch 7/25: Loss: 118552.2196 - Val Loss: 149805.9263 - Val RMSE: 387.0477 - Val R^2: 0.8248
+Epoch 8/25: Loss: 79619.0821 - Val Loss: 199557.5573 - Val RMSE: 446.7187 - Val R^2: 0.8268
+Epoch 9/25: Loss: 101992.9401 - Val Loss: 322243.6030 - Val RMSE: 567.6650 - Val R^2: 0.4133
+Epoch 10/25: Loss: 106826.0763 - Val Loss: 113330.0008 - Val RMSE: 336.6452 - Val R^2: 0.7458
+Epoch 11/25: Loss: 99330.1523 - Val Loss: 1002288.2436 - Val RMSE: 1001.1434 - Val R^2: 0.0207
+Epoch 12/25: Loss: 103035.7416 - Val Loss: 3176152.5609 - Val RMSE: 1782.1765 - Val R^2: -2.5882
+Epoch 13/25: Loss: 88420.0849 - Val Loss: 1333186.3774 - Val RMSE: 1154.6368 - Val R^2: -1.9015
+Epoch 14/25: Loss: 102312.5467 - Val Loss: 244277.7115 - Val RMSE: 494.2446 - Val R^2: 0.6097
+Epoch 15/25: Loss: 86339.5856 - Val Loss: 1304886.7732 - Val RMSE: 1142.3165 - Val R^2: -0.2082
+Epoch 16/25: Loss: 101469.9369 - Val Loss: 915070.0240 - Val RMSE: 956.5929 - Val R^2: -0.3262
+Epoch 17/25: Loss: 88918.2756 - Val Loss: 834032.0994 - Val RMSE: 913.2535 - Val R^2: -0.9295
+Epoch 18/25: Loss: 81393.0021 - Val Loss: 594975.6548 - Val RMSE: 771.3467 - Val R^2: -0.6084
+Epoch 19/25: Loss: 96611.3487 - Val Loss: 643032.3065 - Val RMSE: 801.8929 - Val R^2: -0.1778
+Epoch 20/25: Loss: 91120.3125 - Val Loss: 291461.8838 - Val RMSE: 539.8721 - Val R^2: 0.5894
+Epoch 21/25: Loss: 78564.2771 - Val Loss: 548059.6238 - Val RMSE: 740.3106 - Val R^2: -0.6845
+Epoch 22/25: Loss: 67250.8897 - Val Loss: 1012286.6190 - Val RMSE: 1006.1245 - Val R^2: -0.1199
+Epoch 23/25: Loss: 71475.9164 - Val Loss: 132490.6384 - Val RMSE: 363.9926 - Val R^2: 0.8074
+Epoch 24/25: Loss: 77788.1508 - Val Loss: 107841.2668 - Val RMSE: 328.3920 - Val R^2: 0.8833
+Epoch 25/25: Loss: 65825.8733 - Val Loss: 566219.7692 - Val RMSE: 752.4757 - Val R^2: 0.5993
+RMS mode Start
+Adam mode Start
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/24: Loss: 113671.6932 - Val Loss: 84075.9960 - Val RMSE: 289.9586 - Val R^2: 0.8689
+
+Validation loss did not improve
+Epoch 2/24: Loss: 83630.3313 - Val Loss: 89182.0938 - Val RMSE: 298.6337 - Val R^2: 0.8665
+
+Validation loss did not improve
+Epoch 3/24: Loss: 68595.2690 - Val Loss: 167323.2171 - Val RMSE: 409.0516 - Val R^2: 0.8151
+
+Validation loss did not improve
+Epoch 4/24: Loss: 56469.9913 - Val Loss: 157362.7526 - Val RMSE: 396.6897 - Val R^2: 0.5049
+
+Validation loss did not improve
+Epoch 5/24: Loss: 80947.8122 - Val Loss: 113260.9856 - Val RMSE: 336.5427 - Val R^2: 0.8623
+
+Validation loss did not improve
+Epoch 6/24: Loss: 68895.6025 - Val Loss: 147717.1771 - Val RMSE: 384.3400 - Val R^2: 0.8541
+
+Validation loss did not improve
+Epoch 7/24: Loss: 68491.6649 - Val Loss: 97422.8085 - Val RMSE: 312.1263 - Val R^2: 0.7992
+
+Validation loss did not improve
+Epoch 8/24: Loss: 57695.4523 - Val Loss: 122344.5921 - Val RMSE: 349.7779 - Val R^2: 0.6219
+
+Validation loss did not improve
+Epoch 9/24: Loss: 62789.9675 - Val Loss: 158671.6474 - Val RMSE: 398.3361 - Val R^2: 0.6965
+
+Validation loss did not improve
+Epoch 10/24: Loss: 59578.3858 - Val Loss: 112953.7384 - Val RMSE: 336.0859 - Val R^2: 0.7558
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/4999: Loss: 73586.0864 - Val Loss: 102682.5329 - Val RMSE: 320.4411 - Val R^2: 0.9119
+
+Validation loss did not improve
+Epoch 2/4999: Loss: 69684.6495 - Val Loss: 119977.2548 - Val RMSE: 346.3773 - Val R^2: 0.9093
+
+Validation loss did not improve
+Epoch 3/4999: Loss: 66293.6134 - Val Loss: 112141.2812 - Val RMSE: 334.8750 - Val R^2: 0.9025
+
+Validation loss did not improve
+Epoch 4/4999: Loss: 65144.0452 - Val Loss: 111226.2676 - Val RMSE: 333.5060 - Val R^2: 0.9122
+
+Validation loss did not improve
+Epoch 5/4999: Loss: 61846.8090 - Val Loss: 108712.9087 - Val RMSE: 329.7164 - Val R^2: 0.8422
+
+Validation loss did not improve
+Epoch 6/4999: Loss: 65754.1387 - Val Loss: 130414.7796 - Val RMSE: 361.1299 - Val R^2: 0.8983
+
+Validation loss did not improve
+Epoch 7/4999: Loss: 56832.9424 - Val Loss: 124177.5160 - Val RMSE: 352.3883 - Val R^2: 0.9088
+
+Validation loss did not improve
+Epoch 8/4999: Loss: 57672.7500 - Val Loss: 117636.0585 - Val RMSE: 342.9811 - Val R^2: 0.9084
+
+Validation loss did not improve
+Epoch 9/4999: Loss: 53247.7967 - Val Loss: 118337.7035 - Val RMSE: 344.0025 - Val R^2: 0.9032
+
+Validation loss did not improve
+Epoch 10/4999: Loss: 55108.0740 - Val Loss: 116754.3878 - Val RMSE: 341.6934 - Val R^2: 0.9077
+
+Validation loss did not improve
+Epoch 11/4999: Loss: 48502.6196 - Val Loss: 115651.5713 - Val RMSE: 340.0758 - Val R^2: 0.9052
+
+Validation loss did not improve
+Epoch 12/4999: Loss: 52855.2852 - Val Loss: 114277.4912 - Val RMSE: 338.0496 - Val R^2: 0.9074
+
+Validation loss did not improve
+Epoch 13/4999: Loss: 44947.6470 - Val Loss: 106986.7107 - Val RMSE: 327.0882 - Val R^2: 0.9035
+
+Validation loss did not improve
+Epoch 14/4999: Loss: 49153.3532 - Val Loss: 123104.5272 - Val RMSE: 350.8626 - Val R^2: 0.9026
+
+Validation loss did not improve
+Epoch 15/4999: Loss: 52133.5183 - Val Loss: 114500.9503 - Val RMSE: 338.3799 - Val R^2: 0.9041
+
+Validation loss did not improve
+Epoch 16/4999: Loss: 52026.7984 - Val Loss: 109038.1907 - Val RMSE: 330.2093 - Val R^2: 0.9048
+
+Validation loss did not improve
+Epoch 17/4999: Loss: 41256.7692 - Val Loss: 112296.6210 - Val RMSE: 335.1069 - Val R^2: 0.9066
+
+Validation loss did not improve
+Epoch 18/4999: Loss: 53854.1329 - Val Loss: 120327.8053 - Val RMSE: 346.8830 - Val R^2: 0.9053
+
+Validation loss did not improve
+Epoch 19/4999: Loss: 49574.1775 - Val Loss: 118336.9014 - Val RMSE: 344.0013 - Val R^2: 0.9029
+
+Validation loss did not improve
+Epoch 20/4999: Loss: 47436.8687 - Val Loss: 120014.0064 - Val RMSE: 346.4304 - Val R^2: 0.9062
+
+Validation loss did not improve
+Epoch 21/4999: Loss: 46021.2142 - Val Loss: 135138.7436 - Val RMSE: 367.6122 - Val R^2: 0.8722
+
+Validation loss did not improve
+Epoch 22/4999: Loss: 52252.3724 - Val Loss: 110945.6747 - Val RMSE: 333.0851 - Val R^2: 0.9100
+
+Validation loss did not improve
+Epoch 23/4999: Loss: 44290.9092 - Val Loss: 127761.8998 - Val RMSE: 357.4380 - Val R^2: 0.9023
+
+Validation loss did not improve
+Epoch 24/4999: Loss: 50673.6232 - Val Loss: 120654.6194 - Val RMSE: 347.3537 - Val R^2: 0.8976
+
+Validation loss did not improve
+Epoch 25/4999: Loss: 45497.6937 - Val Loss: 146369.8854 - Val RMSE: 382.5832 - Val R^2: 0.8920
+
+Validation loss did not improve
+Epoch 26/4999: Loss: 38806.3095 - Val Loss: 110172.3566 - Val RMSE: 331.9222 - Val R^2: 0.9040
+
+Validation loss did not improve
+Epoch 27/4999: Loss: 40755.2091 - Val Loss: 118161.0425 - Val RMSE: 343.7456 - Val R^2: 0.8875
+
+Validation loss did not improve
+Epoch 28/4999: Loss: 43152.0884 - Val Loss: 126367.9079 - Val RMSE: 355.4826 - Val R^2: 0.8878
+
+Validation loss did not improve
+Epoch 29/4999: Loss: 45112.3369 - Val Loss: 127348.4207 - Val RMSE: 356.8591 - Val R^2: 0.9005
+
+Validation loss did not improve
+Epoch 30/4999: Loss: 39162.3682 - Val Loss: 110472.8862 - Val RMSE: 332.3746 - Val R^2: 0.9049
+
+Validation loss did not improve
+Epoch 31/4999: Loss: 41992.2026 - Val Loss: 116697.5040 - Val RMSE: 341.6102 - Val R^2: 0.9068
+
+Validation loss did not improve
+Epoch 32/4999: Loss: 40650.3465 - Val Loss: 110493.0000 - Val RMSE: 332.4049 - Val R^2: 0.9063
+
+Validation loss decreased
+Epoch 33/4999: Loss: 39675.4407 - Val Loss: 100280.2300 - Val RMSE: 316.6706 - Val R^2: 0.9094
+
+Validation loss did not improve
+Epoch 34/4999: Loss: 42924.0404 - Val Loss: 115188.1226 - Val RMSE: 339.3937 - Val R^2: 0.8951
+
+Validation loss did not improve
+Epoch 35/4999: Loss: 42065.5187 - Val Loss: 105183.9631 - Val RMSE: 324.3208 - Val R^2: 0.8972
+
+Validation loss did not improve
+Epoch 36/4999: Loss: 42898.5118 - Val Loss: 107424.4599 - Val RMSE: 327.7567 - Val R^2: 0.9020
+
+Validation loss did not improve
+Epoch 37/4999: Loss: 38918.7874 - Val Loss: 103697.6090 - Val RMSE: 322.0211 - Val R^2: 0.9133
+
+Validation loss did not improve
+Epoch 38/4999: Loss: 39526.2635 - Val Loss: 110726.7580 - Val RMSE: 332.7563 - Val R^2: 0.9000
+
+Validation loss did not improve
+Epoch 39/4999: Loss: 40400.2413 - Val Loss: 102308.0817 - Val RMSE: 319.8563 - Val R^2: 0.8835
+
+Validation loss did not improve
+Epoch 40/4999: Loss: 39135.2308 - Val Loss: 106091.2316 - Val RMSE: 325.7165 - Val R^2: 0.9110
+
+Validation loss did not improve
+Epoch 41/4999: Loss: 43345.1712 - Val Loss: 112173.0280 - Val RMSE: 334.9224 - Val R^2: 0.9042
+
+Validation loss did not improve
+Epoch 42/4999: Loss: 40213.8209 - Val Loss: 112147.8550 - Val RMSE: 334.8848 - Val R^2: 0.9057
+
+Validation loss did not improve
+Epoch 43/4999: Loss: 41817.7516 - Val Loss: 108538.0849 - Val RMSE: 329.4512 - Val R^2: 0.9035
+
+Validation loss did not improve
+Epoch 44/4999: Loss: 40866.7532 - Val Loss: 107346.9311 - Val RMSE: 327.6384 - Val R^2: 0.8916
+
+Validation loss did not improve
+Epoch 45/4999: Loss: 38650.8138 - Val Loss: 111030.2067 - Val RMSE: 333.2120 - Val R^2: 0.9074
+
+Validation loss did not improve
+Epoch 46/4999: Loss: 44289.4222 - Val Loss: 134160.5833 - Val RMSE: 366.2794 - Val R^2: 0.8838
+
+Validation loss did not improve
+Epoch 47/4999: Loss: 39820.7143 - Val Loss: 111342.3902 - Val RMSE: 333.6800 - Val R^2: 0.9066
+
+Validation loss did not improve
+Epoch 48/4999: Loss: 36533.5281 - Val Loss: 107566.0481 - Val RMSE: 327.9727 - Val R^2: 0.9074
+
+Validation loss did not improve
+Epoch 49/4999: Loss: 34253.6237 - Val Loss: 105426.7845 - Val RMSE: 324.6949 - Val R^2: 0.8920
+
+Validation loss did not improve
+Epoch 50/4999: Loss: 40526.5525 - Val Loss: 106294.4191 - Val RMSE: 326.0282 - Val R^2: 0.8895
+
+Validation loss decreased
+Epoch 51/4999: Loss: 32411.0444 - Val Loss: 97114.3101 - Val RMSE: 311.6317 - Val R^2: 0.8890
+
+Validation loss did not improve
+Epoch 52/4999: Loss: 40690.9303 - Val Loss: 115630.9920 - Val RMSE: 340.0456 - Val R^2: 0.8976
+
+Validation loss did not improve
+Epoch 53/4999: Loss: 38428.6209 - Val Loss: 105448.6995 - Val RMSE: 324.7286 - Val R^2: 0.8890
+
+Validation loss did not improve
+Epoch 54/4999: Loss: 42079.1712 - Val Loss: 105517.1530 - Val RMSE: 324.8340 - Val R^2: 0.9080
+
+Validation loss did not improve
+Epoch 55/4999: Loss: 39683.1363 - Val Loss: 104798.0112 - Val RMSE: 323.7252 - Val R^2: 0.9039
+
+Validation loss did not improve
+Epoch 56/4999: Loss: 37765.5949 - Val Loss: 113162.0561 - Val RMSE: 336.3957 - Val R^2: 0.8923
+
+Validation loss did not improve
+Epoch 57/4999: Loss: 35933.6567 - Val Loss: 102585.1490 - Val RMSE: 320.2892 - Val R^2: 0.9063
+
+Validation loss did not improve
+Epoch 58/4999: Loss: 39879.2749 - Val Loss: 124090.1883 - Val RMSE: 352.2644 - Val R^2: 0.8959
+
+Validation loss did not improve
+Epoch 59/4999: Loss: 44047.2751 - Val Loss: 120071.9712 - Val RMSE: 346.5141 - Val R^2: 0.9004
+
+Validation loss did not improve
+Epoch 60/4999: Loss: 39219.0067 - Val Loss: 121443.7292 - Val RMSE: 348.4878 - Val R^2: 0.8998
+
+Validation loss did not improve
+Epoch 61/4999: Loss: 38430.3104 - Val Loss: 108641.2428 - Val RMSE: 329.6077 - Val R^2: 0.9044
+
+Validation loss did not improve
+Epoch 62/4999: Loss: 32610.0675 - Val Loss: 110966.2909 - Val RMSE: 333.1160 - Val R^2: 0.9007
+
+Validation loss did not improve
+Epoch 63/4999: Loss: 37903.3879 - Val Loss: 119024.6659 - Val RMSE: 344.9995 - Val R^2: 0.8267
+
+Validation loss did not improve
+Epoch 64/4999: Loss: 36133.7013 - Val Loss: 106547.5401 - Val RMSE: 326.4162 - Val R^2: 0.8980
+
+Validation loss did not improve
+Epoch 65/4999: Loss: 43068.6018 - Val Loss: 100716.1571 - Val RMSE: 317.3581 - Val R^2: 0.9051
+
+Validation loss did not improve
+Epoch 66/4999: Loss: 45606.0563 - Val Loss: 135865.0657 - Val RMSE: 368.5988 - Val R^2: 0.8906
+
+Validation loss did not improve
+Epoch 67/4999: Loss: 39896.0432 - Val Loss: 169967.8429 - Val RMSE: 412.2715 - Val R^2: 0.8584
+
+Validation loss did not improve
+Epoch 68/4999: Loss: 40064.2640 - Val Loss: 162589.4575 - Val RMSE: 403.2238 - Val R^2: 0.8849
+
+Validation loss did not improve
+Epoch 69/4999: Loss: 34742.9199 - Val Loss: 149362.6314 - Val RMSE: 386.4746 - Val R^2: 0.8803
+
+Validation loss did not improve
+Epoch 70/4999: Loss: 36546.5496 - Val Loss: 115832.8766 - Val RMSE: 340.3423 - Val R^2: 0.9036
+
+Validation loss did not improve
+Epoch 71/4999: Loss: 40334.1939 - Val Loss: 126375.4792 - Val RMSE: 355.4933 - Val R^2: 0.8942
+
+Validation loss did not improve
+Epoch 72/4999: Loss: 40822.1188 - Val Loss: 130541.3614 - Val RMSE: 361.3051 - Val R^2: 0.8899
+
+Validation loss did not improve
+Epoch 73/4999: Loss: 38981.6839 - Val Loss: 131760.5897 - Val RMSE: 362.9884 - Val R^2: 0.8839
+
+Validation loss did not improve
+Epoch 74/4999: Loss: 38736.9909 - Val Loss: 118779.3173 - Val RMSE: 344.6438 - Val R^2: 0.8997
+
+Validation loss did not improve
+Epoch 75/4999: Loss: 36453.9894 - Val Loss: 111310.6330 - Val RMSE: 333.6325 - Val R^2: 0.9038
+
+Validation loss did not improve
+Epoch 76/4999: Loss: 33748.2761 - Val Loss: 104307.7644 - Val RMSE: 322.9671 - Val R^2: 0.9025
+
+Validation loss did not improve
+Epoch 77/4999: Loss: 32331.1952 - Val Loss: 108848.9207 - Val RMSE: 329.9226 - Val R^2: 0.8943
+
+Validation loss did not improve
+Epoch 78/4999: Loss: 36565.3357 - Val Loss: 113184.5417 - Val RMSE: 336.4291 - Val R^2: 0.8958
+
+Validation loss did not improve
+Epoch 79/4999: Loss: 38387.5396 - Val Loss: 109660.3678 - Val RMSE: 331.1501 - Val R^2: 0.8932
+
+Validation loss did not improve
+Epoch 80/4999: Loss: 35795.3855 - Val Loss: 109029.3822 - Val RMSE: 330.1960 - Val R^2: 0.8576
+
+Validation loss did not improve
+Epoch 81/4999: Loss: 34559.8944 - Val Loss: 112864.4455 - Val RMSE: 335.9530 - Val R^2: 0.8994
+
+Validation loss did not improve
+Epoch 82/4999: Loss: 39743.6160 - Val Loss: 135669.2292 - Val RMSE: 368.3330 - Val R^2: 0.8806
+
+Validation loss did not improve
+Epoch 83/4999: Loss: 34743.3852 - Val Loss: 146056.1546 - Val RMSE: 382.1729 - Val R^2: 0.8814
+
+Validation loss did not improve
+Epoch 84/4999: Loss: 29573.5703 - Val Loss: 132975.3181 - Val RMSE: 364.6578 - Val R^2: 0.8891
+
+Validation loss did not improve
+Epoch 85/4999: Loss: 38888.6799 - Val Loss: 134135.3421 - Val RMSE: 366.2449 - Val R^2: 0.8811
+
+Validation loss did not improve
+Epoch 86/4999: Loss: 39984.6201 - Val Loss: 157086.8478 - Val RMSE: 396.3418 - Val R^2: 0.8780
+
+Validation loss did not improve
+Epoch 87/4999: Loss: 34930.9848 - Val Loss: 119463.9135 - Val RMSE: 345.6355 - Val R^2: 0.8949
+
+Validation loss did not improve
+Epoch 88/4999: Loss: 34326.1974 - Val Loss: 123193.3982 - Val RMSE: 350.9891 - Val R^2: 0.9014
+
+Validation loss did not improve
+Epoch 89/4999: Loss: 34654.5068 - Val Loss: 131383.9679 - Val RMSE: 362.4693 - Val R^2: 0.8948
+
+Validation loss did not improve
+Epoch 90/4999: Loss: 35606.4685 - Val Loss: 107703.3606 - Val RMSE: 328.1819 - Val R^2: 0.9027
+
+Validation loss did not improve
+Epoch 91/4999: Loss: 36545.5246 - Val Loss: 112982.0080 - Val RMSE: 336.1280 - Val R^2: 0.9012
+
+Validation loss did not improve
+Epoch 92/4999: Loss: 29665.5576 - Val Loss: 123676.3574 - Val RMSE: 351.6765 - Val R^2: 0.8925
+
+Validation loss did not improve
+Epoch 93/4999: Loss: 31249.6427 - Val Loss: 116154.1314 - Val RMSE: 340.8139 - Val R^2: 0.8910
+
+Validation loss did not improve
+Epoch 94/4999: Loss: 31016.6045 - Val Loss: 119888.3165 - Val RMSE: 346.2489 - Val R^2: 0.8986
+
+Validation loss did not improve
+Epoch 95/4999: Loss: 36130.0883 - Val Loss: 121185.0849 - Val RMSE: 348.1165 - Val R^2: 0.8996
+
+Validation loss did not improve
+Epoch 96/4999: Loss: 37521.5390 - Val Loss: 124760.5409 - Val RMSE: 353.2146 - Val R^2: 0.8907
+
+Validation loss did not improve
+Epoch 97/4999: Loss: 34704.3817 - Val Loss: 121323.1370 - Val RMSE: 348.3147 - Val R^2: 0.8962
+
+Validation loss did not improve
+Epoch 98/4999: Loss: 34994.4466 - Val Loss: 129295.6571 - Val RMSE: 359.5771 - Val R^2: 0.8936
+
+Validation loss did not improve
+Epoch 99/4999: Loss: 30055.4274 - Val Loss: 118887.7067 - Val RMSE: 344.8010 - Val R^2: 0.8964
+
+Validation loss did not improve
+Epoch 100/4999: Loss: 33953.0270 - Val Loss: 109375.0625 - Val RMSE: 330.7190 - Val R^2: 0.9009
+
+Validation loss did not improve
+Epoch 101/4999: Loss: 31563.2793 - Val Loss: 107789.8646 - Val RMSE: 328.3137 - Val R^2: 0.8945
+
+Validation loss did not improve
+Epoch 102/4999: Loss: 33181.0620 - Val Loss: 103235.8141 - Val RMSE: 321.3033 - Val R^2: 0.9023
+
+Validation loss did not improve
+Epoch 103/4999: Loss: 31799.0793 - Val Loss: 121805.1571 - Val RMSE: 349.0060 - Val R^2: 0.8986
+
+Validation loss did not improve
+Epoch 104/4999: Loss: 35733.6068 - Val Loss: 125802.8181 - Val RMSE: 354.6869 - Val R^2: 0.8637
+
+Validation loss did not improve
+Epoch 105/4999: Loss: 30655.2375 - Val Loss: 138401.3550 - Val RMSE: 372.0233 - Val R^2: 0.8901
+
+Validation loss did not improve
+Epoch 106/4999: Loss: 24607.4341 - Val Loss: 123969.0393 - Val RMSE: 352.0924 - Val R^2: 0.8961
+
+Validation loss did not improve
+Epoch 107/4999: Loss: 32446.0154 - Val Loss: 142232.8181 - Val RMSE: 377.1377 - Val R^2: 0.8866
+
+Validation loss did not improve
+Epoch 108/4999: Loss: 29893.8452 - Val Loss: 120437.7332 - Val RMSE: 347.0414 - Val R^2: 0.8793
+
+Validation loss did not improve
+Epoch 109/4999: Loss: 39385.5621 - Val Loss: 126641.6442 - Val RMSE: 355.8674 - Val R^2: 0.8769
+
+Validation loss did not improve
+Epoch 110/4999: Loss: 37113.3598 - Val Loss: 128502.5200 - Val RMSE: 358.4725 - Val R^2: 0.8939
+
+Validation loss did not improve
+Epoch 111/4999: Loss: 33232.4064 - Val Loss: 120304.5577 - Val RMSE: 346.8495 - Val R^2: 0.8928
+
+Validation loss did not improve
+Epoch 112/4999: Loss: 30596.8701 - Val Loss: 113203.4038 - Val RMSE: 336.4571 - Val R^2: 0.9000
+
+Validation loss did not improve
+Epoch 113/4999: Loss: 31681.6707 - Val Loss: 112502.0641 - Val RMSE: 335.4133 - Val R^2: 0.8649
+
+Validation loss did not improve
+Epoch 114/4999: Loss: 31531.6668 - Val Loss: 127646.8814 - Val RMSE: 357.2770 - Val R^2: 0.8919
+
+Validation loss did not improve
+Epoch 115/4999: Loss: 32013.9598 - Val Loss: 135633.0024 - Val RMSE: 368.2839 - Val R^2: 0.8807
+
+Validation loss did not improve
+Epoch 116/4999: Loss: 32508.2094 - Val Loss: 116603.5641 - Val RMSE: 341.4726 - Val R^2: 0.9017
+
+Validation loss did not improve
+Epoch 117/4999: Loss: 29681.3985 - Val Loss: 128864.9359 - Val RMSE: 358.9776 - Val R^2: 0.8894
+
+Validation loss did not improve
+Epoch 118/4999: Loss: 37823.9221 - Val Loss: 136688.2740 - Val RMSE: 369.7138 - Val R^2: 0.8420
+
+Validation loss did not improve
+Epoch 119/4999: Loss: 28596.8861 - Val Loss: 122184.2236 - Val RMSE: 349.5486 - Val R^2: 0.8959
+
+Validation loss did not improve
+Epoch 120/4999: Loss: 32158.7908 - Val Loss: 117332.3542 - Val RMSE: 342.5381 - Val R^2: 0.8983
+
+Validation loss did not improve
+Epoch 121/4999: Loss: 33430.0644 - Val Loss: 126189.4647 - Val RMSE: 355.2316 - Val R^2: 0.8933
+
+Validation loss did not improve
+Epoch 122/4999: Loss: 28377.9917 - Val Loss: 123374.7252 - Val RMSE: 351.2474 - Val R^2: 0.8916
+
+Validation loss did not improve
+Epoch 123/4999: Loss: 32223.0669 - Val Loss: 120254.4623 - Val RMSE: 346.7773 - Val R^2: 0.8930
+
+Validation loss did not improve
+Epoch 124/4999: Loss: 31999.8817 - Val Loss: 118496.6779 - Val RMSE: 344.2334 - Val R^2: 0.8782
+
+Validation loss did not improve
+Epoch 125/4999: Loss: 38452.9750 - Val Loss: 129936.9487 - Val RMSE: 360.4677 - Val R^2: 0.8838
+
+Validation loss did not improve
+Epoch 126/4999: Loss: 30959.0156 - Val Loss: 140997.0921 - Val RMSE: 375.4958 - Val R^2: 0.8704
+
+Validation loss did not improve
+Epoch 127/4999: Loss: 31006.8992 - Val Loss: 122625.9535 - Val RMSE: 350.1799 - Val R^2: 0.9011
+
+Validation loss did not improve
+Epoch 128/4999: Loss: 31009.1048 - Val Loss: 158310.3285 - Val RMSE: 397.8823 - Val R^2: 0.8738
+
+Validation loss did not improve
+Epoch 129/4999: Loss: 35717.7988 - Val Loss: 120359.6202 - Val RMSE: 346.9288 - Val R^2: 0.9009
+
+Validation loss did not improve
+Epoch 130/4999: Loss: 25873.8583 - Val Loss: 140006.9880 - Val RMSE: 374.1751 - Val R^2: 0.8914
+
+Validation loss did not improve
+Epoch 131/4999: Loss: 29865.5802 - Val Loss: 122427.3790 - Val RMSE: 349.8962 - Val R^2: 0.8999
+
+Validation loss did not improve
+Epoch 132/4999: Loss: 34696.1451 - Val Loss: 138979.5489 - Val RMSE: 372.7996 - Val R^2: 0.8935
+
+Validation loss did not improve
+Epoch 133/4999: Loss: 34348.8267 - Val Loss: 166566.1915 - Val RMSE: 408.1252 - Val R^2: 0.8651
+
+Validation loss did not improve
+Epoch 134/4999: Loss: 28602.9770 - Val Loss: 134468.8958 - Val RMSE: 366.7000 - Val R^2: 0.8968
+
+Validation loss did not improve
+Epoch 135/4999: Loss: 30450.2405 - Val Loss: 128755.0649 - Val RMSE: 358.8246 - Val R^2: 0.8884
+
+Validation loss did not improve
+Epoch 136/4999: Loss: 35974.0072 - Val Loss: 142073.2460 - Val RMSE: 376.9260 - Val R^2: 0.8866
+
+Validation loss did not improve
+Epoch 137/4999: Loss: 35480.6691 - Val Loss: 153229.8213 - Val RMSE: 391.4458 - Val R^2: 0.8846
+
+Validation loss did not improve
+Epoch 138/4999: Loss: 29374.2805 - Val Loss: 143275.6034 - Val RMSE: 378.5177 - Val R^2: 0.8878
+
+Validation loss did not improve
+Epoch 139/4999: Loss: 28635.5408 - Val Loss: 119313.5433 - Val RMSE: 345.4180 - Val R^2: 0.8953
+
+Validation loss did not improve
+Epoch 140/4999: Loss: 26730.1517 - Val Loss: 133181.8542 - Val RMSE: 364.9409 - Val R^2: 0.8957
+
+Validation loss did not improve
+Epoch 141/4999: Loss: 27846.8044 - Val Loss: 172985.3710 - Val RMSE: 415.9151 - Val R^2: 0.8730
+
+Validation loss did not improve
+Epoch 142/4999: Loss: 33301.7591 - Val Loss: 158290.9655 - Val RMSE: 397.8580 - Val R^2: 0.8758
+
+Validation loss did not improve
+Epoch 143/4999: Loss: 30801.5754 - Val Loss: 178064.2692 - Val RMSE: 421.9766 - Val R^2: 0.8666
+
+Validation loss did not improve
+Epoch 144/4999: Loss: 31958.0587 - Val Loss: 212302.0473 - Val RMSE: 460.7624 - Val R^2: 0.8390
+
+Validation loss did not improve
+Epoch 145/4999: Loss: 34561.8467 - Val Loss: 151793.2949 - Val RMSE: 389.6066 - Val R^2: 0.8683
+
+Validation loss did not improve
+Epoch 146/4999: Loss: 30422.5173 - Val Loss: 142748.6474 - Val RMSE: 377.8209 - Val R^2: 0.8895
+
+Validation loss did not improve
+Epoch 147/4999: Loss: 30346.7990 - Val Loss: 122143.2380 - Val RMSE: 349.4900 - Val R^2: 0.8953
+
+Validation loss did not improve
+Epoch 148/4999: Loss: 26277.9675 - Val Loss: 109122.6775 - Val RMSE: 330.3372 - Val R^2: 0.8787
+
+Validation loss did not improve
+Epoch 149/4999: Loss: 27090.8475 - Val Loss: 110217.3117 - Val RMSE: 331.9899 - Val R^2: 0.8996
+
+Validation loss did not improve
+Epoch 150/4999: Loss: 29680.2956 - Val Loss: 112700.5208 - Val RMSE: 335.7090 - Val R^2: 0.8834
+
+Validation loss did not improve
+Epoch 151/4999: Loss: 29724.3362 - Val Loss: 122818.3646 - Val RMSE: 350.4545 - Val R^2: 0.9017
+
+Validation loss did not improve
+Epoch 152/4999: Loss: 32472.2939 - Val Loss: 117321.2196 - Val RMSE: 342.5218 - Val R^2: 0.8542
+
+Validation loss did not improve
+Epoch 153/4999: Loss: 28866.8476 - Val Loss: 114368.8526 - Val RMSE: 338.1846 - Val R^2: 0.8865
+
+Validation loss did not improve
+Epoch 154/4999: Loss: 35052.2704 - Val Loss: 116086.4792 - Val RMSE: 340.7146 - Val R^2: 0.8963
+
+Validation loss did not improve
+Epoch 155/4999: Loss: 26187.0949 - Val Loss: 125124.4856 - Val RMSE: 353.7294 - Val R^2: 0.8948
+
+Validation loss did not improve
+Epoch 156/4999: Loss: 27289.6861 - Val Loss: 128998.1995 - Val RMSE: 359.1632 - Val R^2: 0.8895
+
+Validation loss did not improve
+Epoch 157/4999: Loss: 31758.2924 - Val Loss: 116532.0112 - Val RMSE: 341.3678 - Val R^2: 0.8958
+
+Validation loss did not improve
+Epoch 158/4999: Loss: 29527.7413 - Val Loss: 116615.6122 - Val RMSE: 341.4903 - Val R^2: 0.9013
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/24: Loss: 41658.6719 - Val Loss: 105850.3910 - Val RMSE: 325.3465 - Val R^2: 0.9092
+
+Validation loss decreased
+Epoch 2/24: Loss: 41434.4580 - Val Loss: 104766.2492 - Val RMSE: 323.6762 - Val R^2: 0.9094
+
+Validation loss did not improve
+Epoch 3/24: Loss: 35294.2318 - Val Loss: 105038.0345 - Val RMSE: 324.0957 - Val R^2: 0.9050
+
+Validation loss did not improve
+Epoch 4/24: Loss: 37051.0689 - Val Loss: 107157.7332 - Val RMSE: 327.3495 - Val R^2: 0.9048
+
+Validation loss did not improve
+Epoch 5/24: Loss: 40933.4991 - Val Loss: 107197.3109 - Val RMSE: 327.4100 - Val R^2: 0.9075
+
+Validation loss did not improve
+Epoch 6/24: Loss: 40289.9680 - Val Loss: 109236.2756 - Val RMSE: 330.5091 - Val R^2: 0.9071
+
+Validation loss did not improve
+Epoch 7/24: Loss: 36625.9866 - Val Loss: 109269.8638 - Val RMSE: 330.5599 - Val R^2: 0.9075
+
+Validation loss did not improve
+Epoch 8/24: Loss: 39285.4754 - Val Loss: 108669.5921 - Val RMSE: 329.6507 - Val R^2: 0.9066
+
+Validation loss did not improve
+Epoch 9/24: Loss: 36119.7922 - Val Loss: 109228.5753 - Val RMSE: 330.4975 - Val R^2: 0.9056
+
+Validation loss did not improve
+Epoch 10/24: Loss: 40182.1681 - Val Loss: 108787.1498 - Val RMSE: 329.8289 - Val R^2: 0.9067
+
+Validation loss did not improve
+Epoch 11/24: Loss: 35245.0124 - Val Loss: 109373.0008 - Val RMSE: 330.7159 - Val R^2: 0.9036
+
+Validation loss did not improve
+Epoch 12/24: Loss: 36911.0151 - Val Loss: 109885.7933 - Val RMSE: 331.4903 - Val R^2: 0.9046
+
+Validation loss did not improve
+Epoch 13/24: Loss: 38538.5277 - Val Loss: 108983.8213 - Val RMSE: 330.1270 - Val R^2: 0.9046
+
+Validation loss did not improve
+Epoch 14/24: Loss: 37349.1992 - Val Loss: 110552.5833 - Val RMSE: 332.4945 - Val R^2: 0.9061
+
+Validation loss did not improve
+Epoch 15/24: Loss: 37404.5283 - Val Loss: 111855.1042 - Val RMSE: 334.4474 - Val R^2: 0.9026
+
+Validation loss did not improve
+Epoch 16/24: Loss: 38836.9367 - Val Loss: 111259.0729 - Val RMSE: 333.5552 - Val R^2: 0.8989
+
+Validation loss did not improve
+Epoch 17/24: Loss: 32788.3485 - Val Loss: 111835.7412 - Val RMSE: 334.4185 - Val R^2: 0.9058
+
+Validation loss did not improve
+Epoch 18/24: Loss: 38590.3634 - Val Loss: 112893.1130 - Val RMSE: 335.9957 - Val R^2: 0.9015
+
+Validation loss did not improve
+Epoch 19/24: Loss: 40357.4331 - Val Loss: 111778.5865 - Val RMSE: 334.3330 - Val R^2: 0.9060
+
+Validation loss did not improve
+Epoch 20/24: Loss: 35294.6527 - Val Loss: 111566.2644 - Val RMSE: 334.0153 - Val R^2: 0.9049
+
+Validation loss did not improve
+Epoch 21/24: Loss: 32972.0433 - Val Loss: 112125.8670 - Val RMSE: 334.8520 - Val R^2: 0.9048
+
+Validation loss did not improve
+Epoch 22/24: Loss: 38886.9032 - Val Loss: 110168.8333 - Val RMSE: 331.9169 - Val R^2: 0.9056
+
+Validation loss did not improve
+Epoch 23/24: Loss: 32562.4055 - Val Loss: 110344.3389 - Val RMSE: 332.1812 - Val R^2: 0.9046
+
+Validation loss did not improve
+Epoch 24/24: Loss: 38742.5214 - Val Loss: 109549.7628 - Val RMSE: 330.9830 - Val R^2: 0.9056
+
+Validation loss did not improve
+Epoch 25/24: Loss: 35667.4477 - Val Loss: 114171.5465 - Val RMSE: 337.8928 - Val R^2: 0.9030
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/24: Loss: 30414.3159 - Val Loss: 112244.6002 - Val RMSE: 335.0292 - Val R^2: 0.9045
+
+Validation loss decreased
+Epoch 2/24: Loss: 33141.6472 - Val Loss: 112244.1074 - Val RMSE: 335.0285 - Val R^2: 0.9025
+
+Validation loss did not improve
+Epoch 3/24: Loss: 34984.4802 - Val Loss: 113973.7115 - Val RMSE: 337.5999 - Val R^2: 0.9019
+
+Validation loss did not improve
+Epoch 4/24: Loss: 34273.3611 - Val Loss: 113979.6106 - Val RMSE: 337.6086 - Val R^2: 0.9025
+
+Validation loss did not improve
+Epoch 5/24: Loss: 32150.1072 - Val Loss: 112345.3526 - Val RMSE: 335.1796 - Val R^2: 0.9031
+
+Validation loss did not improve
+Epoch 6/24: Loss: 34164.8636 - Val Loss: 112451.2452 - Val RMSE: 335.3375 - Val R^2: 0.9017
+
+Validation loss decreased
+Epoch 7/24: Loss: 32895.5751 - Val Loss: 112193.6755 - Val RMSE: 334.9533 - Val R^2: 0.9033
+
+Validation loss decreased
+Epoch 8/24: Loss: 34588.1524 - Val Loss: 111866.1178 - Val RMSE: 334.4639 - Val R^2: 0.9029
+
+Validation loss decreased
+Epoch 9/24: Loss: 35944.6827 - Val Loss: 111071.3606 - Val RMSE: 333.2737 - Val R^2: 0.9040
+
+Validation loss did not improve
+Epoch 10/24: Loss: 33892.8165 - Val Loss: 113613.4407 - Val RMSE: 337.0659 - Val R^2: 0.9021
+
+Validation loss did not improve
+Epoch 11/24: Loss: 34143.7921 - Val Loss: 114285.7252 - Val RMSE: 338.0617 - Val R^2: 0.9026
+
+Validation loss did not improve
+Epoch 12/24: Loss: 32225.5588 - Val Loss: 113206.1907 - Val RMSE: 336.4613 - Val R^2: 0.9040
+
+Validation loss did not improve
+Epoch 13/24: Loss: 33404.5965 - Val Loss: 111491.9832 - Val RMSE: 333.9041 - Val R^2: 0.9054
+
+Validation loss did not improve
+Epoch 14/24: Loss: 33613.2959 - Val Loss: 112500.1506 - Val RMSE: 335.4104 - Val R^2: 0.9051
+
+Validation loss did not improve
+Epoch 15/24: Loss: 32827.9564 - Val Loss: 111121.0232 - Val RMSE: 333.3482 - Val R^2: 0.9055
+
+Validation loss did not improve
+Epoch 16/24: Loss: 35253.9835 - Val Loss: 111159.3429 - Val RMSE: 333.4057 - Val R^2: 0.9054
+
+Validation loss did not improve
+Epoch 17/24: Loss: 31757.6432 - Val Loss: 112574.6755 - Val RMSE: 335.5215 - Val R^2: 0.9058
+
+Validation loss did not improve
+Epoch 18/24: Loss: 35985.4677 - Val Loss: 112890.0104 - Val RMSE: 335.9911 - Val R^2: 0.8990
+
+Validation loss did not improve
+Epoch 19/24: Loss: 34172.0366 - Val Loss: 112524.2532 - Val RMSE: 335.4463 - Val R^2: 0.9043
+
+Validation loss did not improve
+Epoch 20/24: Loss: 32026.3030 - Val Loss: 112930.4527 - Val RMSE: 336.0513 - Val R^2: 0.9037
+
+Validation loss did not improve
+Epoch 21/24: Loss: 35419.1474 - Val Loss: 111163.6394 - Val RMSE: 333.4121 - Val R^2: 0.9044
+
+Validation loss did not improve
+Epoch 22/24: Loss: 32439.3243 - Val Loss: 111587.5673 - Val RMSE: 334.0472 - Val R^2: 0.9046
+
+Validation loss did not improve
+Epoch 23/24: Loss: 30929.9179 - Val Loss: 113269.4103 - Val RMSE: 336.5552 - Val R^2: 0.9018
+
+Validation loss did not improve
+Epoch 24/24: Loss: 28733.5631 - Val Loss: 112961.7949 - Val RMSE: 336.0979 - Val R^2: 0.9042
+
+Validation loss decreased
+Epoch 25/24: Loss: 35660.8329 - Val Loss: 110807.5048 - Val RMSE: 332.8776 - Val R^2: 0.9039
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/24: Loss: 28890.7206 - Val Loss: 107998.9447 - Val RMSE: 328.6319 - Val R^2: 0.8995
+
+Validation loss did not improve
+Epoch 2/24: Loss: 37352.7996 - Val Loss: 112968.3205 - Val RMSE: 336.1076 - Val R^2: 0.9030
+
+Validation loss did not improve
+Epoch 3/24: Loss: 36222.8182 - Val Loss: 110014.5569 - Val RMSE: 331.6844 - Val R^2: 0.9031
+
+Validation loss did not improve
+Epoch 4/24: Loss: 39317.1359 - Val Loss: 110846.9671 - Val RMSE: 332.9369 - Val R^2: 0.9048
+
+Validation loss did not improve
+Epoch 5/24: Loss: 36097.6754 - Val Loss: 108825.4175 - Val RMSE: 329.8870 - Val R^2: 0.9054
+
+Validation loss did not improve
+Epoch 6/24: Loss: 35159.4298 - Val Loss: 109788.5321 - Val RMSE: 331.3435 - Val R^2: 0.9027
+
+Validation loss did not improve
+Epoch 7/24: Loss: 34346.6454 - Val Loss: 109046.9928 - Val RMSE: 330.2227 - Val R^2: 0.9024
+
+Validation loss did not improve
+Epoch 8/24: Loss: 37690.3365 - Val Loss: 109691.7212 - Val RMSE: 331.1974 - Val R^2: 0.9044
+
+Validation loss did not improve
+Epoch 9/24: Loss: 40537.8466 - Val Loss: 110647.9375 - Val RMSE: 332.6378 - Val R^2: 0.9033
+
+Validation loss did not improve
+Epoch 10/24: Loss: 35877.1520 - Val Loss: 111619.7340 - Val RMSE: 334.0954 - Val R^2: 0.9032
+
+Validation loss did not improve
+Epoch 11/24: Loss: 38114.1257 - Val Loss: 108941.2228 - Val RMSE: 330.0624 - Val R^2: 0.9056
+
+Validation loss did not improve
+Epoch 12/24: Loss: 32050.3737 - Val Loss: 109071.2252 - Val RMSE: 330.2593 - Val R^2: 0.9043
+
+Validation loss did not improve
+Epoch 13/24: Loss: 35524.4409 - Val Loss: 112720.4599 - Val RMSE: 335.7387 - Val R^2: 0.9003
+
+Validation loss did not improve
+Epoch 14/24: Loss: 36415.8065 - Val Loss: 109969.1282 - Val RMSE: 331.6159 - Val R^2: 0.9052
+
+Validation loss did not improve
+Epoch 15/24: Loss: 37567.3893 - Val Loss: 109818.7981 - Val RMSE: 331.3892 - Val R^2: 0.9051
+
+Validation loss did not improve
+Epoch 16/24: Loss: 41795.5556 - Val Loss: 112418.1579 - Val RMSE: 335.2882 - Val R^2: 0.9040
+
+Validation loss did not improve
+Epoch 17/24: Loss: 38265.7814 - Val Loss: 115237.3926 - Val RMSE: 339.4663 - Val R^2: 0.9036
+
+Validation loss did not improve
+Epoch 18/24: Loss: 37769.3711 - Val Loss: 114895.7845 - Val RMSE: 338.9628 - Val R^2: 0.9027
+
+Validation loss did not improve
+Epoch 19/24: Loss: 34593.5644 - Val Loss: 113202.2067 - Val RMSE: 336.4554 - Val R^2: 0.9037
+
+Validation loss did not improve
+Epoch 20/24: Loss: 37099.0363 - Val Loss: 111366.1042 - Val RMSE: 333.7156 - Val R^2: 0.9047
+
+Validation loss did not improve
+Epoch 21/24: Loss: 38735.0769 - Val Loss: 113034.2796 - Val RMSE: 336.2057 - Val R^2: 0.9033
+
+Validation loss did not improve
+Epoch 22/24: Loss: 40385.9300 - Val Loss: 111408.9888 - Val RMSE: 333.7798 - Val R^2: 0.9038
+
+Validation loss did not improve
+Epoch 23/24: Loss: 39660.6820 - Val Loss: 108508.1587 - Val RMSE: 329.4058 - Val R^2: 0.9003
+
+Validation loss did not improve
+Epoch 24/24: Loss: 36702.5573 - Val Loss: 110053.1675 - Val RMSE: 331.7426 - Val R^2: 0.9037
+
+Validation loss did not improve
+Epoch 25/24: Loss: 35720.1587 - Val Loss: 110666.0232 - Val RMSE: 332.6650 - Val R^2: 0.9034
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/24: Loss: 34732.0922 - Val Loss: 111286.5865 - Val RMSE: 333.5964 - Val R^2: 0.9036
+
+Validation loss did not improve
+Epoch 2/24: Loss: 33227.1932 - Val Loss: 112534.8574 - Val RMSE: 335.4622 - Val R^2: 0.9035
+
+Validation loss decreased
+Epoch 3/24: Loss: 37992.3709 - Val Loss: 110118.7236 - Val RMSE: 331.8414 - Val R^2: 0.9048
+
+Validation loss decreased
+Epoch 4/24: Loss: 37750.7950 - Val Loss: 107855.7316 - Val RMSE: 328.4140 - Val R^2: 0.9062
+
+Validation loss decreased
+Epoch 5/24: Loss: 36740.3221 - Val Loss: 107327.2059 - Val RMSE: 327.6083 - Val R^2: 0.9041
+
+Validation loss did not improve
+Epoch 6/24: Loss: 34410.7815 - Val Loss: 108491.0689 - Val RMSE: 329.3798 - Val R^2: 0.9027
+
+Validation loss did not improve
+Epoch 7/24: Loss: 39263.4520 - Val Loss: 112045.5345 - Val RMSE: 334.7320 - Val R^2: 0.9016
+
+Validation loss did not improve
+Epoch 8/24: Loss: 36621.6422 - Val Loss: 111945.3598 - Val RMSE: 334.5823 - Val R^2: 0.9028
+
+Validation loss did not improve
+Epoch 9/24: Loss: 29868.5480 - Val Loss: 109533.8510 - Val RMSE: 330.9590 - Val R^2: 0.9028
+
+Validation loss did not improve
+Epoch 10/24: Loss: 41636.2526 - Val Loss: 111462.7268 - Val RMSE: 333.8603 - Val R^2: 0.9025
+
+Validation loss did not improve
+Epoch 11/24: Loss: 39701.0456 - Val Loss: 110456.4575 - Val RMSE: 332.3499 - Val R^2: 0.9029
+
+Validation loss did not improve
+Epoch 12/24: Loss: 38057.7949 - Val Loss: 113269.7268 - Val RMSE: 336.5557 - Val R^2: 0.9021
+
+Validation loss did not improve
+Epoch 13/24: Loss: 37002.1763 - Val Loss: 111368.9399 - Val RMSE: 333.7199 - Val R^2: 0.9020
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 41227.2377 - Val Loss: 135664.9559 - Val RMSE: 368.3272 - Val R^2: 0.8811
+
+Validation loss decreased
+Epoch 2/10: Loss: 39802.0035 - Val Loss: 117218.5817 - Val RMSE: 342.3720 - Val R^2: 0.8913
+
+Validation loss decreased
+Epoch 3/10: Loss: 34065.6661 - Val Loss: 115374.1426 - Val RMSE: 339.6677 - Val R^2: 0.8988
+
+Validation loss did not improve
+Epoch 4/10: Loss: 34691.1592 - Val Loss: 116506.2476 - Val RMSE: 341.3301 - Val R^2: 0.8892
+
+Validation loss did not improve
+Epoch 5/10: Loss: 41170.6574 - Val Loss: 116504.7404 - Val RMSE: 341.3279 - Val R^2: 0.8992
+
+Validation loss did not improve
+Epoch 6/10: Loss: 38603.6261 - Val Loss: 119712.8253 - Val RMSE: 345.9954 - Val R^2: 0.8975
+
+Validation loss decreased
+Epoch 7/10: Loss: 35987.8238 - Val Loss: 109023.4062 - Val RMSE: 330.1869 - Val R^2: 0.8998
+
+Validation loss did not improve
+Epoch 8/10: Loss: 38193.8347 - Val Loss: 116800.3646 - Val RMSE: 341.7607 - Val R^2: 0.9003
+
+Validation loss did not improve
+Epoch 9/10: Loss: 33692.3255 - Val Loss: 119538.2188 - Val RMSE: 345.7430 - Val R^2: 0.8962
+
+Validation loss did not improve
+Epoch 10/10: Loss: 40864.0849 - Val Loss: 109621.6979 - Val RMSE: 331.0917 - Val R^2: 0.9044
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 33421.8965 - Val Loss: 119277.4103 - Val RMSE: 345.3656 - Val R^2: 0.8932
+
+Validation loss decreased
+Epoch 2/10: Loss: 35969.7293 - Val Loss: 104514.7580 - Val RMSE: 323.2874 - Val R^2: 0.9058
+
+Validation loss did not improve
+Epoch 3/10: Loss: 36397.2467 - Val Loss: 106841.4143 - Val RMSE: 326.8660 - Val R^2: 0.9031
+
+Validation loss did not improve
+Epoch 4/10: Loss: 33644.4706 - Val Loss: 112473.8069 - Val RMSE: 335.3711 - Val R^2: 0.9045
+
+Validation loss did not improve
+Epoch 5/10: Loss: 37829.3530 - Val Loss: 113334.1298 - Val RMSE: 336.6514 - Val R^2: 0.8991
+
+Validation loss did not improve
+Epoch 6/10: Loss: 36085.4152 - Val Loss: 113255.1194 - Val RMSE: 336.5340 - Val R^2: 0.8906
+
+Validation loss did not improve
+Epoch 7/10: Loss: 32516.2776 - Val Loss: 113800.1170 - Val RMSE: 337.3427 - Val R^2: 0.9024
+
+Validation loss did not improve
+Epoch 8/10: Loss: 35353.1231 - Val Loss: 116128.5240 - Val RMSE: 340.7764 - Val R^2: 0.8994
+
+Validation loss did not improve
+Epoch 9/10: Loss: 37567.7138 - Val Loss: 110972.6426 - Val RMSE: 333.1256 - Val R^2: 0.9016
+
+Validation loss did not improve
+Epoch 10/10: Loss: 33743.2891 - Val Loss: 111437.9223 - Val RMSE: 333.8232 - Val R^2: 0.9019
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 37927.4154 - Val Loss: 108567.5272 - Val RMSE: 329.4959 - Val R^2: 0.9090
+
+Validation loss decreased
+Epoch 2/10: Loss: 38649.9660 - Val Loss: 103012.5136 - Val RMSE: 320.9556 - Val R^2: 0.9132
+
+Validation loss did not improve
+Epoch 3/10: Loss: 30986.8390 - Val Loss: 110628.9135 - Val RMSE: 332.6093 - Val R^2: 0.9030
+
+Validation loss did not improve
+Epoch 4/10: Loss: 35857.4806 - Val Loss: 112109.3013 - Val RMSE: 334.8273 - Val R^2: 0.9056
+
+Validation loss did not improve
+Epoch 5/10: Loss: 32927.7357 - Val Loss: 133168.1026 - Val RMSE: 364.9220 - Val R^2: 0.8796
+
+Validation loss did not improve
+Epoch 6/10: Loss: 28671.2049 - Val Loss: 121613.9760 - Val RMSE: 348.7319 - Val R^2: 0.8968
+
+Validation loss did not improve
+Epoch 7/10: Loss: 33924.1048 - Val Loss: 115745.6875 - Val RMSE: 340.2142 - Val R^2: 0.8817
+
+Validation loss did not improve
+Epoch 8/10: Loss: 34257.6208 - Val Loss: 124852.4399 - Val RMSE: 353.3446 - Val R^2: 0.8881
+
+Validation loss did not improve
+Epoch 9/10: Loss: 32910.6881 - Val Loss: 115356.7212 - Val RMSE: 339.6420 - Val R^2: 0.9009
+
+Validation loss did not improve
+Epoch 10/10: Loss: 30796.6252 - Val Loss: 118724.0777 - Val RMSE: 344.5636 - Val R^2: 0.8986
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 35200.0596 - Val Loss: 126282.3606 - Val RMSE: 355.3623 - Val R^2: 0.8960
+
+Validation loss decreased
+Epoch 2/10: Loss: 30256.6881 - Val Loss: 120331.5921 - Val RMSE: 346.8884 - Val R^2: 0.8988
+
+Validation loss decreased
+Epoch 3/10: Loss: 32556.2013 - Val Loss: 109179.6354 - Val RMSE: 330.4234 - Val R^2: 0.9043
+
+Validation loss did not improve
+Epoch 4/10: Loss: 34131.3324 - Val Loss: 116741.0585 - Val RMSE: 341.6739 - Val R^2: 0.8977
+
+Validation loss did not improve
+Epoch 5/10: Loss: 32910.1348 - Val Loss: 113852.0737 - Val RMSE: 337.4197 - Val R^2: 0.8993
+
+Validation loss did not improve
+Epoch 6/10: Loss: 31411.1784 - Val Loss: 113961.7139 - Val RMSE: 337.5822 - Val R^2: 0.8988
+
+Validation loss did not improve
+Epoch 7/10: Loss: 30552.5854 - Val Loss: 112014.6346 - Val RMSE: 334.6858 - Val R^2: 0.9051
+
+Validation loss did not improve
+Epoch 8/10: Loss: 30320.7896 - Val Loss: 115144.9391 - Val RMSE: 339.3301 - Val R^2: 0.8966
+
+Validation loss did not improve
+Epoch 9/10: Loss: 32341.8253 - Val Loss: 115025.4992 - Val RMSE: 339.1541 - Val R^2: 0.8977
+
+Validation loss did not improve
+Epoch 10/10: Loss: 31166.2932 - Val Loss: 115956.3381 - Val RMSE: 340.5236 - Val R^2: 0.9014
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 38342.9393 - Val Loss: 129542.2131 - Val RMSE: 359.9197 - Val R^2: 0.8974
+
+Validation loss decreased
+Epoch 2/10: Loss: 31661.4390 - Val Loss: 117169.2780 - Val RMSE: 342.3000 - Val R^2: 0.8995
+
+Validation loss did not improve
+Epoch 3/10: Loss: 32935.2414 - Val Loss: 126230.9030 - Val RMSE: 355.2899 - Val R^2: 0.8906
+
+Validation loss decreased
+Epoch 4/10: Loss: 31932.4647 - Val Loss: 114387.6114 - Val RMSE: 338.2124 - Val R^2: 0.8944
+
+Validation loss decreased
+Epoch 5/10: Loss: 30383.4641 - Val Loss: 105987.9804 - Val RMSE: 325.5579 - Val R^2: 0.9031
+
+Validation loss did not improve
+Epoch 6/10: Loss: 34619.0847 - Val Loss: 106563.3958 - Val RMSE: 326.4405 - Val R^2: 0.9054
+
+Validation loss did not improve
+Epoch 7/10: Loss: 32963.4540 - Val Loss: 110859.4864 - Val RMSE: 332.9557 - Val R^2: 0.8903
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 180446.4362 - Val Loss: 384728.5433 - Val RMSE: 620.2649 - Val R^2: 0.3953
+
+Validation loss decreased
+Epoch 2/10: Loss: 123141.4592 - Val Loss: 255132.5224 - Val RMSE: 505.1064 - Val R^2: -0.8800
+
+Validation loss did not improve
+Epoch 3/10: Loss: 118563.9963 - Val Loss: 417789.1827 - Val RMSE: 646.3662 - Val R^2: 0.4818
+
+Validation loss did not improve
+Epoch 4/10: Loss: 111435.6038 - Val Loss: 282942.9575 - Val RMSE: 531.9238 - Val R^2: -0.1455
+
+Validation loss decreased
+Epoch 5/10: Loss: 99739.8523 - Val Loss: 240443.5417 - Val RMSE: 490.3504 - Val R^2: 0.0694
+
+Validation loss decreased
+Epoch 6/10: Loss: 124598.7456 - Val Loss: 235262.5321 - Val RMSE: 485.0386 - Val R^2: -0.7136
+
+Validation loss decreased
+Epoch 7/10: Loss: 93341.4495 - Val Loss: 171238.9255 - Val RMSE: 413.8102 - Val R^2: -0.0914
+
+Validation loss did not improve
+Epoch 8/10: Loss: 98501.1267 - Val Loss: 200246.7260 - Val RMSE: 447.4893 - Val R^2: 0.3340
+
+Validation loss decreased
+Epoch 9/10: Loss: 101410.0524 - Val Loss: 146257.5329 - Val RMSE: 382.4363 - Val R^2: 0.6855
+
+Validation loss decreased
+Epoch 10/10: Loss: 93907.0622 - Val Loss: 122914.9343 - Val RMSE: 350.5923 - Val R^2: -1.3304
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 83472.3555 - Val Loss: 114779.9631 - Val RMSE: 338.7919 - Val R^2: 0.6777
+
+Validation loss did not improve
+Epoch 2/10: Loss: 92073.6225 - Val Loss: 116982.9375 - Val RMSE: 342.0277 - Val R^2: 0.7932
+
+Validation loss did not improve
+Epoch 3/10: Loss: 90065.9814 - Val Loss: 116464.8830 - Val RMSE: 341.2695 - Val R^2: 0.8232
+
+Validation loss decreased
+Epoch 4/10: Loss: 85583.5964 - Val Loss: 112361.0881 - Val RMSE: 335.2031 - Val R^2: 0.7847
+
+Validation loss did not improve
+Epoch 5/10: Loss: 101091.3047 - Val Loss: 124792.2997 - Val RMSE: 353.2595 - Val R^2: 0.7674
+
+Validation loss did not improve
+Epoch 6/10: Loss: 105041.0010 - Val Loss: 122179.9888 - Val RMSE: 349.5426 - Val R^2: 0.7483
+
+Validation loss did not improve
+Epoch 7/10: Loss: 76981.8049 - Val Loss: 124457.8077 - Val RMSE: 352.7858 - Val R^2: 0.5907
+
+Validation loss did not improve
+Epoch 8/10: Loss: 109157.6356 - Val Loss: 135044.7212 - Val RMSE: 367.4843 - Val R^2: 0.8962
+
+Validation loss did not improve
+Epoch 9/10: Loss: 78002.3472 - Val Loss: 118387.8013 - Val RMSE: 344.0753 - Val R^2: 0.7932
+
+Validation loss did not improve
+Epoch 10/10: Loss: 89625.7134 - Val Loss: 143854.8646 - Val RMSE: 379.2820 - Val R^2: 0.8771
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 74781.5614 - Val Loss: 127725.3325 - Val RMSE: 357.3868 - Val R^2: 0.8890
+
+Validation loss decreased
+Epoch 2/10: Loss: 104281.1338 - Val Loss: 118639.1867 - Val RMSE: 344.4404 - Val R^2: 0.8870
+
+Validation loss decreased
+Epoch 3/10: Loss: 98660.0786 - Val Loss: 113935.7596 - Val RMSE: 337.5437 - Val R^2: 0.9099
+
+Validation loss decreased
+Epoch 4/10: Loss: 110484.8578 - Val Loss: 107668.6058 - Val RMSE: 328.1290 - Val R^2: 0.9123
+
+Validation loss decreased
+Epoch 5/10: Loss: 105401.5707 - Val Loss: 104629.1258 - Val RMSE: 323.4643 - Val R^2: 0.9154
+
+Validation loss decreased
+Epoch 6/10: Loss: 76070.3660 - Val Loss: 99831.3013 - Val RMSE: 315.9609 - Val R^2: 0.9112
+
+Validation loss decreased
+Epoch 7/10: Loss: 80731.4185 - Val Loss: 96773.0793 - Val RMSE: 311.0837 - Val R^2: 0.9065
+
+Validation loss decreased
+Epoch 8/10: Loss: 77242.9294 - Val Loss: 95326.2067 - Val RMSE: 308.7494 - Val R^2: 0.9186
+
+Validation loss decreased
+Epoch 9/10: Loss: 87855.1871 - Val Loss: 94391.4487 - Val RMSE: 307.2319 - Val R^2: 0.8479
+
+Validation loss did not improve
+Epoch 10/10: Loss: 83546.9331 - Val Loss: 94704.1843 - Val RMSE: 307.7405 - Val R^2: 0.8785
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 78296.1262 - Val Loss: 93192.1955 - Val RMSE: 305.2740 - Val R^2: 0.9181
+
+Validation loss decreased
+Epoch 2/10: Loss: 72597.5399 - Val Loss: 91282.5321 - Val RMSE: 302.1300 - Val R^2: 0.9195
+
+Validation loss decreased
+Epoch 3/10: Loss: 66902.0663 - Val Loss: 91148.8598 - Val RMSE: 301.9087 - Val R^2: 0.9237
+
+Validation loss decreased
+Epoch 4/10: Loss: 97502.1409 - Val Loss: 90840.9071 - Val RMSE: 301.3982 - Val R^2: 0.9223
+
+Validation loss did not improve
+Epoch 5/10: Loss: 66957.4846 - Val Loss: 92693.0954 - Val RMSE: 304.4554 - Val R^2: 0.9075
+
+Validation loss did not improve
+Epoch 6/10: Loss: 91280.3582 - Val Loss: 92696.6050 - Val RMSE: 304.4612 - Val R^2: 0.9206
+
+Validation loss decreased
+Epoch 7/10: Loss: 89617.9822 - Val Loss: 89772.1947 - Val RMSE: 299.6201 - Val R^2: 0.9208
+
+Validation loss decreased
+Epoch 8/10: Loss: 68843.6770 - Val Loss: 89411.7492 - Val RMSE: 299.0180 - Val R^2: 0.9181
+
+Validation loss did not improve
+Epoch 9/10: Loss: 81808.9636 - Val Loss: 89941.3950 - Val RMSE: 299.9023 - Val R^2: 0.9101
+
+Validation loss did not improve
+Epoch 10/10: Loss: 68728.6123 - Val Loss: 92032.1811 - Val RMSE: 303.3681 - Val R^2: 0.8819
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 97335.5612 - Val Loss: 90871.1442 - Val RMSE: 301.4484 - Val R^2: 0.9052
+
+Validation loss decreased
+Epoch 2/10: Loss: 70098.0481 - Val Loss: 90005.1603 - Val RMSE: 300.0086 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 3/10: Loss: 88463.2599 - Val Loss: 89368.9824 - Val RMSE: 298.9465 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 4/10: Loss: 81738.7408 - Val Loss: 89177.3718 - Val RMSE: 298.6258 - Val R^2: 0.9214
+
+Validation loss decreased
+Epoch 5/10: Loss: 73884.4540 - Val Loss: 89077.8862 - Val RMSE: 298.4592 - Val R^2: 0.9213
+
+Validation loss decreased
+Epoch 6/10: Loss: 92197.0781 - Val Loss: 88813.9183 - Val RMSE: 298.0167 - Val R^2: 0.9219
+
+Validation loss decreased
+Epoch 7/10: Loss: 75925.4202 - Val Loss: 88738.7011 - Val RMSE: 297.8904 - Val R^2: 0.9207
+
+Validation loss decreased
+Epoch 8/10: Loss: 76856.5466 - Val Loss: 88356.9519 - Val RMSE: 297.2490 - Val R^2: 0.9216
+
+Validation loss did not improve
+Epoch 9/10: Loss: 63754.9012 - Val Loss: 88537.1026 - Val RMSE: 297.5518 - Val R^2: 0.9184
+
+Validation loss decreased
+Epoch 10/10: Loss: 71333.4035 - Val Loss: 88217.7652 - Val RMSE: 297.0147 - Val R^2: 0.9215
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 82694.8188 - Val Loss: 88125.4784 - Val RMSE: 296.8594 - Val R^2: 0.9229
+
+Validation loss did not improve
+Epoch 2/10: Loss: 66607.4198 - Val Loss: 88200.8462 - Val RMSE: 296.9863 - Val R^2: 0.9227
+
+Validation loss decreased
+Epoch 3/10: Loss: 72044.5132 - Val Loss: 88036.6098 - Val RMSE: 296.7096 - Val R^2: 0.9226
+
+Validation loss did not improve
+Epoch 4/10: Loss: 72767.0502 - Val Loss: 88099.4567 - Val RMSE: 296.8155 - Val R^2: 0.9228
+
+Validation loss decreased
+Epoch 5/10: Loss: 76686.2908 - Val Loss: 87978.2612 - Val RMSE: 296.6113 - Val R^2: 0.9233
+
+Validation loss decreased
+Epoch 6/10: Loss: 78814.2919 - Val Loss: 87948.8806 - Val RMSE: 296.5618 - Val R^2: 0.9217
+
+Validation loss did not improve
+Epoch 7/10: Loss: 80603.0336 - Val Loss: 88254.9912 - Val RMSE: 297.0774 - Val R^2: 0.9226
+
+Validation loss did not improve
+Epoch 8/10: Loss: 62696.2819 - Val Loss: 88339.7772 - Val RMSE: 297.2201 - Val R^2: 0.9217
+
+Validation loss did not improve
+Epoch 9/10: Loss: 82915.4908 - Val Loss: 88254.9279 - Val RMSE: 297.0773 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 10/10: Loss: 85165.0299 - Val Loss: 87977.6723 - Val RMSE: 296.6103 - Val R^2: 0.9187
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 82444.3222 - Val Loss: 87836.4800 - Val RMSE: 296.3722 - Val R^2: 0.9193
+
+Validation loss decreased
+Epoch 2/10: Loss: 61952.8881 - Val Loss: 87762.4255 - Val RMSE: 296.2472 - Val R^2: 0.9199
+
+Validation loss did not improve
+Epoch 3/10: Loss: 67091.5750 - Val Loss: 87951.3109 - Val RMSE: 296.5659 - Val R^2: 0.9204
+
+Validation loss did not improve
+Epoch 4/10: Loss: 77668.1479 - Val Loss: 88078.3566 - Val RMSE: 296.7800 - Val R^2: 0.9206
+
+Validation loss did not improve
+Epoch 5/10: Loss: 95657.3779 - Val Loss: 87872.4696 - Val RMSE: 296.4329 - Val R^2: 0.9202
+
+Validation loss decreased
+Epoch 6/10: Loss: 110739.4592 - Val Loss: 87563.6282 - Val RMSE: 295.9115 - Val R^2: 0.9204
+
+Validation loss did not improve
+Epoch 7/10: Loss: 84945.5267 - Val Loss: 87590.1090 - Val RMSE: 295.9562 - Val R^2: 0.9202
+
+Validation loss decreased
+Epoch 8/10: Loss: 83874.5508 - Val Loss: 87484.6282 - Val RMSE: 295.7780 - Val R^2: 0.9204
+
+Validation loss decreased
+Epoch 9/10: Loss: 76820.8069 - Val Loss: 87434.7444 - Val RMSE: 295.6936 - Val R^2: 0.9199
+
+Validation loss did not improve
+Epoch 10/10: Loss: 87855.0893 - Val Loss: 87496.1987 - Val RMSE: 295.7976 - Val R^2: 0.9198
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 82322.8824 - Val Loss: 87351.8694 - Val RMSE: 295.5535 - Val R^2: 0.9199
+
+Validation loss did not improve
+Epoch 2/10: Loss: 76551.6393 - Val Loss: 87438.7572 - Val RMSE: 295.7005 - Val R^2: 0.9205
+
+Validation loss did not improve
+Epoch 3/10: Loss: 64620.6032 - Val Loss: 87918.3534 - Val RMSE: 296.5103 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 4/10: Loss: 91145.7758 - Val Loss: 87612.9720 - Val RMSE: 295.9949 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 5/10: Loss: 95844.0627 - Val Loss: 87329.4567 - Val RMSE: 295.5156 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/10: Loss: 73281.3129 - Val Loss: 87392.3710 - Val RMSE: 295.6220 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/10: Loss: 74677.6405 - Val Loss: 87575.4976 - Val RMSE: 295.9316 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 8/10: Loss: 81317.2256 - Val Loss: 87395.4784 - Val RMSE: 295.6272 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 9/10: Loss: 74155.8660 - Val Loss: 87432.7764 - Val RMSE: 295.6903 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/10: Loss: 70278.9602 - Val Loss: 87427.8814 - Val RMSE: 295.6821 - Val R^2: 0.9209
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 85639.7319 - Val Loss: 87351.4888 - Val RMSE: 295.5529 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/10: Loss: 80932.4068 - Val Loss: 87385.0144 - Val RMSE: 295.6096 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 3/10: Loss: 65012.1082 - Val Loss: 87272.8982 - Val RMSE: 295.4199 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/10: Loss: 66815.0860 - Val Loss: 87610.4495 - Val RMSE: 295.9906 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 5/10: Loss: 63363.3319 - Val Loss: 87534.5016 - Val RMSE: 295.8623 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 6/10: Loss: 77528.9221 - Val Loss: 87446.7388 - Val RMSE: 295.7140 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 7/10: Loss: 77762.8988 - Val Loss: 87395.9415 - Val RMSE: 295.6280 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 8/10: Loss: 80059.3807 - Val Loss: 87706.1146 - Val RMSE: 296.1522 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 9/10: Loss: 62165.6921 - Val Loss: 87761.3237 - Val RMSE: 296.2454 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 10/10: Loss: 72026.5018 - Val Loss: 87705.2236 - Val RMSE: 296.1507 - Val R^2: 0.9211
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 68148.3583 - Val Loss: 87719.0232 - Val RMSE: 296.1740 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/10: Loss: 60274.3543 - Val Loss: 87879.6082 - Val RMSE: 296.4449 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 3/10: Loss: 77400.2746 - Val Loss: 87836.9407 - Val RMSE: 296.3730 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/10: Loss: 59414.3834 - Val Loss: 87854.8037 - Val RMSE: 296.4031 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 5/10: Loss: 77171.0748 - Val Loss: 87671.4575 - Val RMSE: 296.0937 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 6/10: Loss: 79483.7309 - Val Loss: 87431.7652 - Val RMSE: 295.6886 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 7/10: Loss: 74650.4758 - Val Loss: 87391.5649 - Val RMSE: 295.6206 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 8/10: Loss: 72151.6423 - Val Loss: 87402.6667 - Val RMSE: 295.6394 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 9/10: Loss: 71402.7042 - Val Loss: 87352.5529 - Val RMSE: 295.5547 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 10/10: Loss: 73562.2283 - Val Loss: 87310.8894 - Val RMSE: 295.4842 - Val R^2: 0.9209
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 64498.2000 - Val Loss: 87336.5152 - Val RMSE: 295.5275 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 2/10: Loss: 80099.7824 - Val Loss: 87052.6154 - Val RMSE: 295.0468 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 3/10: Loss: 72026.9067 - Val Loss: 86969.8758 - Val RMSE: 294.9066 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 4/10: Loss: 89891.8358 - Val Loss: 86547.9014 - Val RMSE: 294.1902 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/10: Loss: 66046.7291 - Val Loss: 87024.7083 - Val RMSE: 294.9995 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/10: Loss: 69291.1348 - Val Loss: 87345.0200 - Val RMSE: 295.5419 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 7/10: Loss: 65321.1818 - Val Loss: 87502.3910 - Val RMSE: 295.8080 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/10: Loss: 90987.3767 - Val Loss: 87134.9351 - Val RMSE: 295.1863 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/10: Loss: 95165.8852 - Val Loss: 87007.8397 - Val RMSE: 294.9709 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/10: Loss: 94312.2694 - Val Loss: 86947.6114 - Val RMSE: 294.8688 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 69670.2216 - Val Loss: 87062.5417 - Val RMSE: 295.0636 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/10: Loss: 74024.2630 - Val Loss: 87162.2196 - Val RMSE: 295.2325 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/10: Loss: 80500.0876 - Val Loss: 87175.1250 - Val RMSE: 295.2544 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 4/10: Loss: 63854.1435 - Val Loss: 87209.0954 - Val RMSE: 295.3118 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/10: Loss: 85516.7104 - Val Loss: 87201.9151 - Val RMSE: 295.2997 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/10: Loss: 75767.7014 - Val Loss: 87439.2452 - Val RMSE: 295.7013 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/10: Loss: 83186.0993 - Val Loss: 87334.4006 - Val RMSE: 295.5239 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 8/10: Loss: 85169.2398 - Val Loss: 87196.6627 - Val RMSE: 295.2908 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/10: Loss: 79434.3030 - Val Loss: 87140.7244 - Val RMSE: 295.1961 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 10/10: Loss: 72340.6005 - Val Loss: 87250.9062 - Val RMSE: 295.3826 - Val R^2: 0.9210
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 85717.4130 - Val Loss: 87143.9167 - Val RMSE: 295.2015 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/10: Loss: 73058.2420 - Val Loss: 87156.8438 - Val RMSE: 295.2234 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/10: Loss: 68011.1857 - Val Loss: 87206.9679 - Val RMSE: 295.3082 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/10: Loss: 88146.2065 - Val Loss: 87305.5553 - Val RMSE: 295.4751 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/10: Loss: 87019.2782 - Val Loss: 87235.3165 - Val RMSE: 295.3563 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/10: Loss: 77634.1844 - Val Loss: 87224.7292 - Val RMSE: 295.3383 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 7/10: Loss: 96350.8554 - Val Loss: 86850.1314 - Val RMSE: 294.7035 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/10: Loss: 67930.7345 - Val Loss: 86916.1434 - Val RMSE: 294.8154 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/10: Loss: 71687.1543 - Val Loss: 87120.3974 - Val RMSE: 295.1616 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/10: Loss: 75257.1526 - Val Loss: 87295.1146 - Val RMSE: 295.4575 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 83639.0621 - Val Loss: 87522.0817 - Val RMSE: 295.8413 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 2/10: Loss: 81769.2795 - Val Loss: 87440.3237 - Val RMSE: 295.7031 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 3/10: Loss: 81295.9524 - Val Loss: 87504.5264 - Val RMSE: 295.8116 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/10: Loss: 69505.0134 - Val Loss: 87491.8622 - Val RMSE: 295.7902 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/10: Loss: 80607.4167 - Val Loss: 87481.3205 - Val RMSE: 295.7724 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 6/10: Loss: 69845.1365 - Val Loss: 87434.3662 - Val RMSE: 295.6930 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/10: Loss: 87956.1863 - Val Loss: 87575.0777 - Val RMSE: 295.9309 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 8/10: Loss: 93846.8048 - Val Loss: 87250.7260 - Val RMSE: 295.3823 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 9/10: Loss: 71748.0227 - Val Loss: 87174.6130 - Val RMSE: 295.2535 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 10/10: Loss: 83508.5118 - Val Loss: 87225.6498 - Val RMSE: 295.3399 - Val R^2: 0.9212
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 97599.0795 - Val Loss: 87046.6546 - Val RMSE: 295.0367 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 2/10: Loss: 89953.5867 - Val Loss: 87233.7075 - Val RMSE: 295.3535 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 3/10: Loss: 81346.5026 - Val Loss: 87289.9343 - Val RMSE: 295.4487 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 4/10: Loss: 88631.4811 - Val Loss: 87415.8998 - Val RMSE: 295.6618 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 5/10: Loss: 70693.9361 - Val Loss: 87601.7548 - Val RMSE: 295.9759 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/10: Loss: 65748.0941 - Val Loss: 87830.3061 - Val RMSE: 296.3618 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/10: Loss: 81063.1876 - Val Loss: 87417.2188 - Val RMSE: 295.6640 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 8/10: Loss: 62264.6819 - Val Loss: 87419.6346 - Val RMSE: 295.6681 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 9/10: Loss: 57789.8686 - Val Loss: 87327.0080 - Val RMSE: 295.5114 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 10/10: Loss: 80229.5765 - Val Loss: 87480.2853 - Val RMSE: 295.7707 - Val R^2: 0.9212
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 75485.9924 - Val Loss: 87413.2804 - Val RMSE: 295.6574 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 2/10: Loss: 82876.8576 - Val Loss: 87648.9359 - Val RMSE: 296.0556 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/10: Loss: 57405.7079 - Val Loss: 87560.8317 - Val RMSE: 295.9068 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/10: Loss: 89387.9052 - Val Loss: 87650.9223 - Val RMSE: 296.0590 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 5/10: Loss: 81080.0821 - Val Loss: 87827.8502 - Val RMSE: 296.3576 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/10: Loss: 76072.3980 - Val Loss: 87619.3454 - Val RMSE: 296.0056 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 7/10: Loss: 76844.0041 - Val Loss: 87367.5192 - Val RMSE: 295.5800 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/10: Loss: 66425.2980 - Val Loss: 87368.9391 - Val RMSE: 295.5824 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 9/10: Loss: 84879.5932 - Val Loss: 87137.4760 - Val RMSE: 295.1906 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 10/10: Loss: 64317.5541 - Val Loss: 87419.1699 - Val RMSE: 295.6673 - Val R^2: 0.9212
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 78481.4138 - Val Loss: 87495.4111 - Val RMSE: 295.7962 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 2/10: Loss: 67363.7837 - Val Loss: 87535.8325 - Val RMSE: 295.8646 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 3/10: Loss: 85782.7659 - Val Loss: 87718.9030 - Val RMSE: 296.1738 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 4/10: Loss: 60926.8083 - Val Loss: 87903.7332 - Val RMSE: 296.4856 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 5/10: Loss: 85521.1985 - Val Loss: 87710.4704 - Val RMSE: 296.1595 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 6/10: Loss: 71145.5340 - Val Loss: 87690.9423 - Val RMSE: 296.1265 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 7/10: Loss: 82084.5834 - Val Loss: 87371.1170 - Val RMSE: 295.5860 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 8/10: Loss: 93093.6659 - Val Loss: 87304.3269 - Val RMSE: 295.4731 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 9/10: Loss: 76277.3255 - Val Loss: 87184.7123 - Val RMSE: 295.2706 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 10/10: Loss: 72453.1263 - Val Loss: 87275.1138 - Val RMSE: 295.4236 - Val R^2: 0.9213
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 77527.0324 - Val Loss: 87331.8301 - Val RMSE: 295.5196 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 2/10: Loss: 81910.4237 - Val Loss: 87055.2003 - Val RMSE: 295.0512 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/10: Loss: 69902.1907 - Val Loss: 87220.7324 - Val RMSE: 295.3316 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/10: Loss: 95069.9353 - Val Loss: 87059.3790 - Val RMSE: 295.0583 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 5/10: Loss: 82207.5568 - Val Loss: 87080.3598 - Val RMSE: 295.0938 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/10: Loss: 63224.0365 - Val Loss: 87114.8654 - Val RMSE: 295.1523 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/10: Loss: 81440.9962 - Val Loss: 87194.4952 - Val RMSE: 295.2871 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 8/10: Loss: 73475.0539 - Val Loss: 87314.4567 - Val RMSE: 295.4902 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 9/10: Loss: 76856.7166 - Val Loss: 87223.1018 - Val RMSE: 295.3356 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 10/10: Loss: 78725.9787 - Val Loss: 87695.6763 - Val RMSE: 296.1346 - Val R^2: 0.9212
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 85716.6226 - Val Loss: 87641.3381 - Val RMSE: 296.0428 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 2/10: Loss: 96640.8553 - Val Loss: 87700.8798 - Val RMSE: 296.1433 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/10: Loss: 81091.6160 - Val Loss: 87709.2051 - Val RMSE: 296.1574 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 4/10: Loss: 78261.0905 - Val Loss: 87338.2276 - Val RMSE: 295.5304 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 5/10: Loss: 80884.5303 - Val Loss: 87184.4255 - Val RMSE: 295.2701 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/10: Loss: 60342.9108 - Val Loss: 87552.6090 - Val RMSE: 295.8929 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/10: Loss: 74108.1897 - Val Loss: 87748.6226 - Val RMSE: 296.2239 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 8/10: Loss: 65724.7709 - Val Loss: 88046.4944 - Val RMSE: 296.7263 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 9/10: Loss: 90448.9220 - Val Loss: 87895.1530 - Val RMSE: 296.4712 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/10: Loss: 92934.6385 - Val Loss: 87744.2997 - Val RMSE: 296.2166 - Val R^2: 0.9211
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/10: Loss: 75079.1809 - Val Loss: 87831.5833 - Val RMSE: 296.3639 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 2/10: Loss: 80064.7700 - Val Loss: 87648.9423 - Val RMSE: 296.0556 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 3/10: Loss: 68674.6319 - Val Loss: 87604.8397 - Val RMSE: 295.9811 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 4/10: Loss: 85804.5724 - Val Loss: 87445.3558 - Val RMSE: 295.7116 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 5/10: Loss: 75440.2113 - Val Loss: 87632.5849 - Val RMSE: 296.0280 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/10: Loss: 75984.8633 - Val Loss: 87652.0657 - Val RMSE: 296.0609 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 7/10: Loss: 102487.7634 - Val Loss: 87602.6571 - Val RMSE: 295.9774 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 8/10: Loss: 74204.0643 - Val Loss: 87720.2075 - Val RMSE: 296.1760 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 9/10: Loss: 64864.0287 - Val Loss: 87954.3405 - Val RMSE: 296.5709 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 10/10: Loss: 75902.2540 - Val Loss: 87868.1362 - Val RMSE: 296.4256 - Val R^2: 0.9211
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 89368.8536 - Val Loss: 87332.8261 - Val RMSE: 295.5213 - Val R^2: 0.9208
+
+Validation loss decreased
+Epoch 2/25: Loss: 79390.3620 - Val Loss: 87004.8854 - Val RMSE: 294.9659 - Val R^2: 0.9207
+
+Validation loss decreased
+Epoch 3/25: Loss: 77553.8116 - Val Loss: 86842.1130 - Val RMSE: 294.6898 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 4/25: Loss: 78338.5348 - Val Loss: 86974.6042 - Val RMSE: 294.9146 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 5/25: Loss: 69873.2568 - Val Loss: 87016.6122 - Val RMSE: 294.9858 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 6/25: Loss: 84346.8014 - Val Loss: 86937.2853 - Val RMSE: 294.8513 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 7/25: Loss: 68850.0413 - Val Loss: 87064.8790 - Val RMSE: 295.0676 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 8/25: Loss: 72931.8066 - Val Loss: 87035.8966 - Val RMSE: 295.0185 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 9/25: Loss: 70790.6823 - Val Loss: 86851.5585 - Val RMSE: 294.7059 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 10/25: Loss: 68942.6927 - Val Loss: 86635.4471 - Val RMSE: 294.3390 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 11/25: Loss: 60912.9394 - Val Loss: 86655.1234 - Val RMSE: 294.3724 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 12/25: Loss: 71726.4782 - Val Loss: 86772.5913 - Val RMSE: 294.5719 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 13/25: Loss: 67426.2652 - Val Loss: 86842.5617 - Val RMSE: 294.6906 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 14/25: Loss: 67066.1359 - Val Loss: 86970.4663 - Val RMSE: 294.9075 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 15/25: Loss: 74151.6219 - Val Loss: 86851.3045 - Val RMSE: 294.7055 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 16/25: Loss: 84921.6252 - Val Loss: 86801.1346 - Val RMSE: 294.6203 - Val R^2: 0.9206
+
+Validation loss did not improve
+Epoch 17/25: Loss: 62664.3873 - Val Loss: 86893.9231 - Val RMSE: 294.7777 - Val R^2: 0.9206
+
+Validation loss did not improve
+Epoch 18/25: Loss: 87188.4990 - Val Loss: 86957.3165 - Val RMSE: 294.8852 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 19/25: Loss: 62741.9410 - Val Loss: 87150.3582 - Val RMSE: 295.2124 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 20/25: Loss: 74129.4372 - Val Loss: 87199.8694 - Val RMSE: 295.2962 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 64953.6946 - Val Loss: 87507.0841 - Val RMSE: 295.8160 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 22/25: Loss: 94571.0919 - Val Loss: 87170.9992 - Val RMSE: 295.2473 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 90244.5183 - Val Loss: 87085.6643 - Val RMSE: 295.1028 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 102559.7573 - Val Loss: 86953.5264 - Val RMSE: 294.8788 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 98746.1909 - Val Loss: 86706.2043 - Val RMSE: 294.4592 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 71113.0675 - Val Loss: 86750.6002 - Val RMSE: 294.5346 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 2/25: Loss: 76103.2488 - Val Loss: 86861.4423 - Val RMSE: 294.7226 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/25: Loss: 73354.3872 - Val Loss: 87043.4471 - Val RMSE: 295.0313 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 4/25: Loss: 84530.1596 - Val Loss: 87104.5056 - Val RMSE: 295.1347 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 5/25: Loss: 79691.6954 - Val Loss: 87181.2155 - Val RMSE: 295.2647 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 6/25: Loss: 74262.5737 - Val Loss: 87302.0032 - Val RMSE: 295.4691 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 7/25: Loss: 70340.7553 - Val Loss: 87428.3045 - Val RMSE: 295.6828 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/25: Loss: 63903.2262 - Val Loss: 87410.4848 - Val RMSE: 295.6526 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/25: Loss: 93835.1687 - Val Loss: 87315.4046 - Val RMSE: 295.4918 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/25: Loss: 64551.9133 - Val Loss: 87652.4311 - Val RMSE: 296.0615 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 11/25: Loss: 88754.5547 - Val Loss: 87595.8670 - Val RMSE: 295.9660 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 12/25: Loss: 85949.6611 - Val Loss: 87286.9167 - Val RMSE: 295.4436 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 13/25: Loss: 66744.2676 - Val Loss: 87192.5345 - Val RMSE: 295.2838 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 14/25: Loss: 80139.0675 - Val Loss: 87096.8574 - Val RMSE: 295.1218 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 15/25: Loss: 66911.6444 - Val Loss: 87288.1194 - Val RMSE: 295.4456 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 96200.2364 - Val Loss: 87108.3606 - Val RMSE: 295.1412 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 17/25: Loss: 69310.5448 - Val Loss: 87114.6635 - Val RMSE: 295.1519 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 18/25: Loss: 87585.5174 - Val Loss: 86843.8702 - Val RMSE: 294.6928 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 81251.3162 - Val Loss: 86815.4103 - Val RMSE: 294.6445 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 20/25: Loss: 73344.6718 - Val Loss: 87132.7147 - Val RMSE: 295.1825 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 91863.6529 - Val Loss: 87074.4752 - Val RMSE: 295.0838 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 22/25: Loss: 75425.1391 - Val Loss: 87173.8021 - Val RMSE: 295.2521 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 76293.1738 - Val Loss: 86970.9199 - Val RMSE: 294.9083 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 63269.9633 - Val Loss: 87331.0096 - Val RMSE: 295.5182 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 70858.1474 - Val Loss: 87211.9968 - Val RMSE: 295.3168 - Val R^2: 0.9211
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 82203.7213 - Val Loss: 87256.8830 - Val RMSE: 295.3928 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/25: Loss: 66302.7430 - Val Loss: 87361.1923 - Val RMSE: 295.5693 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/25: Loss: 71746.6740 - Val Loss: 87287.9960 - Val RMSE: 295.4454 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 72431.7879 - Val Loss: 87427.0144 - Val RMSE: 295.6806 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 5/25: Loss: 76312.1285 - Val Loss: 87347.2845 - Val RMSE: 295.5457 - Val R^2: 0.9214
+
+Validation loss did not improve
+Epoch 6/25: Loss: 78480.2675 - Val Loss: 87400.0929 - Val RMSE: 295.6351 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/25: Loss: 80339.0576 - Val Loss: 87597.0176 - Val RMSE: 295.9679 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 8/25: Loss: 62407.4393 - Val Loss: 87728.3590 - Val RMSE: 296.1897 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 9/25: Loss: 82626.5623 - Val Loss: 87731.0946 - Val RMSE: 296.1943 - Val R^2: 0.9214
+
+Validation loss did not improve
+Epoch 10/25: Loss: 84961.3694 - Val Loss: 87579.2548 - Val RMSE: 295.9379 - Val R^2: 0.9216
+
+Validation loss did not improve
+Epoch 11/25: Loss: 82294.3334 - Val Loss: 87486.2163 - Val RMSE: 295.7807 - Val R^2: 0.9215
+
+Validation loss did not improve
+Epoch 12/25: Loss: 61879.4653 - Val Loss: 87480.8021 - Val RMSE: 295.7715 - Val R^2: 0.9216
+
+Validation loss did not improve
+Epoch 13/25: Loss: 67023.8523 - Val Loss: 87731.0088 - Val RMSE: 296.1942 - Val R^2: 0.9215
+
+Validation loss did not improve
+Epoch 14/25: Loss: 77626.8999 - Val Loss: 87873.9375 - Val RMSE: 296.4354 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 15/25: Loss: 95569.7507 - Val Loss: 87704.5441 - Val RMSE: 296.1495 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 110648.2559 - Val Loss: 87395.7019 - Val RMSE: 295.6276 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 17/25: Loss: 84895.9511 - Val Loss: 87435.1114 - Val RMSE: 295.6943 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 18/25: Loss: 83833.5058 - Val Loss: 87345.0946 - Val RMSE: 295.5420 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 19/25: Loss: 76791.5147 - Val Loss: 87304.2588 - Val RMSE: 295.4729 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 20/25: Loss: 87814.6677 - Val Loss: 87358.1386 - Val RMSE: 295.5641 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 21/25: Loss: 82249.2458 - Val Loss: 87247.1979 - Val RMSE: 295.3763 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 22/25: Loss: 76493.1844 - Val Loss: 87314.9471 - Val RMSE: 295.4910 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 23/25: Loss: 64591.6712 - Val Loss: 87813.4135 - Val RMSE: 296.3333 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 24/25: Loss: 91113.5374 - Val Loss: 87521.4215 - Val RMSE: 295.8402 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 25/25: Loss: 95797.2913 - Val Loss: 87243.2925 - Val RMSE: 295.3697 - Val R^2: 0.9209
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 73247.8494 - Val Loss: 87309.6691 - Val RMSE: 295.4821 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 2/25: Loss: 74640.0970 - Val Loss: 87502.8117 - Val RMSE: 295.8087 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/25: Loss: 81285.6979 - Val Loss: 87340.3365 - Val RMSE: 295.5340 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 74134.1591 - Val Loss: 87386.6482 - Val RMSE: 295.6123 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 5/25: Loss: 70258.6045 - Val Loss: 87379.0689 - Val RMSE: 295.5995 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 6/25: Loss: 85624.3813 - Val Loss: 87303.4984 - Val RMSE: 295.4717 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/25: Loss: 80923.6615 - Val Loss: 87352.1939 - Val RMSE: 295.5540 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 8/25: Loss: 65006.0560 - Val Loss: 87248.0280 - Val RMSE: 295.3778 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 9/25: Loss: 66810.9552 - Val Loss: 87586.5417 - Val RMSE: 295.9502 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/25: Loss: 63357.6620 - Val Loss: 87516.3582 - Val RMSE: 295.8316 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 11/25: Loss: 77522.6100 - Val Loss: 87437.8518 - Val RMSE: 295.6989 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 12/25: Loss: 77757.7465 - Val Loss: 87383.2580 - Val RMSE: 295.6066 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 13/25: Loss: 80055.9705 - Val Loss: 87688.6010 - Val RMSE: 296.1226 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 14/25: Loss: 62163.3489 - Val Loss: 87750.9736 - Val RMSE: 296.2279 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 15/25: Loss: 72022.1461 - Val Loss: 87694.4816 - Val RMSE: 296.1325 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 68143.8408 - Val Loss: 87710.7796 - Val RMSE: 296.1601 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 17/25: Loss: 60272.5442 - Val Loss: 87874.3502 - Val RMSE: 296.4361 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 18/25: Loss: 77397.1744 - Val Loss: 87832.4527 - Val RMSE: 296.3654 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 19/25: Loss: 59411.9709 - Val Loss: 87858.5104 - Val RMSE: 296.4094 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 20/25: Loss: 77165.9661 - Val Loss: 87669.7732 - Val RMSE: 296.0908 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 21/25: Loss: 79481.0786 - Val Loss: 87435.9944 - Val RMSE: 295.6958 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 22/25: Loss: 74646.9302 - Val Loss: 87380.4487 - Val RMSE: 295.6018 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 23/25: Loss: 72150.6470 - Val Loss: 87396.8894 - Val RMSE: 295.6296 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 24/25: Loss: 71400.3966 - Val Loss: 87347.9952 - Val RMSE: 295.5469 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 25/25: Loss: 73560.9743 - Val Loss: 87306.2700 - Val RMSE: 295.4764 - Val R^2: 0.9209
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 64497.3728 - Val Loss: 87335.3253 - Val RMSE: 295.5255 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 2/25: Loss: 80099.5691 - Val Loss: 87046.3934 - Val RMSE: 295.0363 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 3/25: Loss: 72026.6591 - Val Loss: 86970.0016 - Val RMSE: 294.9068 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 4/25: Loss: 89891.1894 - Val Loss: 86545.8317 - Val RMSE: 294.1867 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/25: Loss: 66046.2227 - Val Loss: 87018.0393 - Val RMSE: 294.9882 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/25: Loss: 69290.4505 - Val Loss: 87343.2748 - Val RMSE: 295.5389 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 7/25: Loss: 65321.2520 - Val Loss: 87506.1979 - Val RMSE: 295.8144 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/25: Loss: 90987.6657 - Val Loss: 87130.7147 - Val RMSE: 295.1791 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/25: Loss: 95165.6681 - Val Loss: 87009.1146 - Val RMSE: 294.9731 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/25: Loss: 94311.8961 - Val Loss: 86947.7772 - Val RMSE: 294.8691 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 11/25: Loss: 69669.3655 - Val Loss: 87065.1322 - Val RMSE: 295.0680 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 12/25: Loss: 74024.0811 - Val Loss: 87160.4311 - Val RMSE: 295.2295 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 13/25: Loss: 80500.1298 - Val Loss: 87172.5152 - Val RMSE: 295.2499 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 14/25: Loss: 63853.9503 - Val Loss: 87209.4319 - Val RMSE: 295.3124 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 15/25: Loss: 85515.9916 - Val Loss: 87203.7572 - Val RMSE: 295.3028 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 16/25: Loss: 75767.7482 - Val Loss: 87443.4896 - Val RMSE: 295.7085 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 17/25: Loss: 83185.9582 - Val Loss: 87336.0513 - Val RMSE: 295.5267 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 18/25: Loss: 85169.5119 - Val Loss: 87197.5136 - Val RMSE: 295.2922 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 79433.7308 - Val Loss: 87144.8542 - Val RMSE: 295.2031 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 20/25: Loss: 72339.7654 - Val Loss: 87250.6498 - Val RMSE: 295.3822 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 21/25: Loss: 85717.2402 - Val Loss: 87145.1354 - Val RMSE: 295.2035 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 22/25: Loss: 73059.0081 - Val Loss: 87153.7099 - Val RMSE: 295.2180 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 23/25: Loss: 68011.5398 - Val Loss: 87206.6779 - Val RMSE: 295.3078 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 24/25: Loss: 88146.2552 - Val Loss: 87305.7276 - Val RMSE: 295.4754 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 25/25: Loss: 87019.0146 - Val Loss: 87238.1883 - Val RMSE: 295.3611 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 77634.3759 - Val Loss: 87223.2732 - Val RMSE: 295.3359 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 2/25: Loss: 96351.6585 - Val Loss: 86852.6122 - Val RMSE: 294.7077 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 3/25: Loss: 67930.6830 - Val Loss: 86913.9471 - Val RMSE: 294.8117 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/25: Loss: 71686.0511 - Val Loss: 87119.3293 - Val RMSE: 295.1598 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/25: Loss: 75256.9991 - Val Loss: 87299.3173 - Val RMSE: 295.4646 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/25: Loss: 83639.4695 - Val Loss: 87520.7396 - Val RMSE: 295.8390 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/25: Loss: 81768.9538 - Val Loss: 87440.2732 - Val RMSE: 295.7030 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 8/25: Loss: 81295.8196 - Val Loss: 87505.7372 - Val RMSE: 295.8137 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 9/25: Loss: 69505.0335 - Val Loss: 87493.8574 - Val RMSE: 295.7936 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 10/25: Loss: 80607.5775 - Val Loss: 87480.5593 - Val RMSE: 295.7711 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 11/25: Loss: 69845.3917 - Val Loss: 87436.8574 - Val RMSE: 295.6972 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 12/25: Loss: 87955.7131 - Val Loss: 87570.9079 - Val RMSE: 295.9238 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 13/25: Loss: 93846.7489 - Val Loss: 87254.5729 - Val RMSE: 295.3889 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 14/25: Loss: 71747.7124 - Val Loss: 87170.7204 - Val RMSE: 295.2469 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 15/25: Loss: 83508.6114 - Val Loss: 87227.3245 - Val RMSE: 295.3427 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 97598.8271 - Val Loss: 87050.8333 - Val RMSE: 295.0438 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 17/25: Loss: 89954.8182 - Val Loss: 87232.5465 - Val RMSE: 295.3516 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 18/25: Loss: 81345.8124 - Val Loss: 87287.3405 - Val RMSE: 295.4443 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 19/25: Loss: 88631.6560 - Val Loss: 87419.5577 - Val RMSE: 295.6680 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 20/25: Loss: 70694.2420 - Val Loss: 87601.1002 - Val RMSE: 295.9748 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 21/25: Loss: 65747.7694 - Val Loss: 87828.2708 - Val RMSE: 296.3584 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 22/25: Loss: 81062.8813 - Val Loss: 87414.6506 - Val RMSE: 295.6597 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 23/25: Loss: 62264.6067 - Val Loss: 87422.0200 - Val RMSE: 295.6722 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 57790.3988 - Val Loss: 87328.1731 - Val RMSE: 295.5134 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 80229.7313 - Val Loss: 87478.5048 - Val RMSE: 295.7676 - Val R^2: 0.9212
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 75487.0351 - Val Loss: 87415.6987 - Val RMSE: 295.6615 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 2/25: Loss: 82876.8510 - Val Loss: 87647.4359 - Val RMSE: 296.0531 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/25: Loss: 57405.3888 - Val Loss: 87559.2893 - Val RMSE: 295.9042 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 89388.2689 - Val Loss: 87652.2372 - Val RMSE: 296.0612 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 5/25: Loss: 81080.7041 - Val Loss: 87826.7772 - Val RMSE: 296.3558 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/25: Loss: 76072.2229 - Val Loss: 87620.2660 - Val RMSE: 296.0072 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 7/25: Loss: 76843.7593 - Val Loss: 87368.2011 - Val RMSE: 295.5811 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 8/25: Loss: 66425.6552 - Val Loss: 87367.0481 - Val RMSE: 295.5792 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 9/25: Loss: 84880.1228 - Val Loss: 87137.5521 - Val RMSE: 295.1907 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 10/25: Loss: 64317.7568 - Val Loss: 87419.8189 - Val RMSE: 295.6684 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 11/25: Loss: 78481.0916 - Val Loss: 87497.2396 - Val RMSE: 295.7993 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 12/25: Loss: 67363.2716 - Val Loss: 87537.2596 - Val RMSE: 295.8670 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 13/25: Loss: 85782.0919 - Val Loss: 87714.7660 - Val RMSE: 296.1668 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 14/25: Loss: 60927.0899 - Val Loss: 87903.0296 - Val RMSE: 296.4845 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 15/25: Loss: 85521.2584 - Val Loss: 87710.5369 - Val RMSE: 296.1597 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 71145.7408 - Val Loss: 87689.0841 - Val RMSE: 296.1234 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 17/25: Loss: 82084.7608 - Val Loss: 87370.2893 - Val RMSE: 295.5847 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 18/25: Loss: 93094.1604 - Val Loss: 87305.8117 - Val RMSE: 295.4756 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 19/25: Loss: 76276.8974 - Val Loss: 87182.5481 - Val RMSE: 295.2669 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 20/25: Loss: 72452.7822 - Val Loss: 87278.3678 - Val RMSE: 295.4292 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 21/25: Loss: 77527.4836 - Val Loss: 87330.3269 - Val RMSE: 295.5171 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 22/25: Loss: 81910.0843 - Val Loss: 87057.0721 - Val RMSE: 295.0544 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 69902.3324 - Val Loss: 87219.3990 - Val RMSE: 295.3293 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 24/25: Loss: 95069.9156 - Val Loss: 87058.7091 - Val RMSE: 295.0571 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 82207.6290 - Val Loss: 87077.7668 - Val RMSE: 295.0894 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 63223.9113 - Val Loss: 87114.8606 - Val RMSE: 295.1523 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/25: Loss: 81440.8891 - Val Loss: 87191.8077 - Val RMSE: 295.2826 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/25: Loss: 73475.1615 - Val Loss: 87314.4543 - Val RMSE: 295.4902 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 4/25: Loss: 76856.4905 - Val Loss: 87222.3958 - Val RMSE: 295.3344 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 5/25: Loss: 78725.9947 - Val Loss: 87696.0465 - Val RMSE: 296.1352 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 6/25: Loss: 85716.4684 - Val Loss: 87642.6723 - Val RMSE: 296.0450 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 7/25: Loss: 96640.5926 - Val Loss: 87701.4087 - Val RMSE: 296.1442 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 8/25: Loss: 81091.4900 - Val Loss: 87709.2901 - Val RMSE: 296.1576 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 9/25: Loss: 78261.2712 - Val Loss: 87337.1635 - Val RMSE: 295.5286 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 10/25: Loss: 80885.1583 - Val Loss: 87183.8213 - Val RMSE: 295.2691 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 11/25: Loss: 60343.0134 - Val Loss: 87552.8494 - Val RMSE: 295.8933 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 12/25: Loss: 74108.3388 - Val Loss: 87749.2676 - Val RMSE: 296.2250 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 13/25: Loss: 65724.6910 - Val Loss: 88046.4375 - Val RMSE: 296.7262 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 14/25: Loss: 90448.9270 - Val Loss: 87895.4904 - Val RMSE: 296.4718 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 15/25: Loss: 92934.4747 - Val Loss: 87746.3293 - Val RMSE: 296.2201 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 16/25: Loss: 75079.1775 - Val Loss: 87832.5809 - Val RMSE: 296.3656 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 17/25: Loss: 80064.8866 - Val Loss: 87650.2885 - Val RMSE: 296.0579 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 18/25: Loss: 68674.5561 - Val Loss: 87605.3357 - Val RMSE: 295.9820 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 19/25: Loss: 85804.4098 - Val Loss: 87445.9295 - Val RMSE: 295.7126 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 20/25: Loss: 75440.2379 - Val Loss: 87634.0064 - Val RMSE: 296.0304 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 75984.8126 - Val Loss: 87651.9551 - Val RMSE: 296.0607 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 22/25: Loss: 102487.8297 - Val Loss: 87604.0441 - Val RMSE: 295.9798 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 74204.0172 - Val Loss: 87719.0785 - Val RMSE: 296.1741 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 64863.9028 - Val Loss: 87955.1434 - Val RMSE: 296.5723 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 25/25: Loss: 75902.2695 - Val Loss: 87867.7965 - Val RMSE: 296.4250 - Val R^2: 0.9211
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 86257.9089 - Val Loss: 87613.2252 - Val RMSE: 295.9953 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 2/25: Loss: 74718.7067 - Val Loss: 87663.5938 - Val RMSE: 296.0804 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 3/25: Loss: 75351.2977 - Val Loss: 87711.4856 - Val RMSE: 296.1613 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 71147.3269 - Val Loss: 87910.0897 - Val RMSE: 296.4964 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 5/25: Loss: 69744.6026 - Val Loss: 87784.5689 - Val RMSE: 296.2846 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/25: Loss: 80823.1374 - Val Loss: 87770.5857 - Val RMSE: 296.2610 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 7/25: Loss: 100745.3223 - Val Loss: 87561.7284 - Val RMSE: 295.9083 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 8/25: Loss: 95628.0135 - Val Loss: 87414.6018 - Val RMSE: 295.6596 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 9/25: Loss: 75968.5616 - Val Loss: 87294.0745 - Val RMSE: 295.4557 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 10/25: Loss: 83597.8112 - Val Loss: 87251.9992 - Val RMSE: 295.3845 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 11/25: Loss: 72224.1298 - Val Loss: 87230.0833 - Val RMSE: 295.3474 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 12/25: Loss: 74647.1043 - Val Loss: 87506.1034 - Val RMSE: 295.8143 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 13/25: Loss: 79163.3513 - Val Loss: 87383.8285 - Val RMSE: 295.6076 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 14/25: Loss: 61526.3248 - Val Loss: 87667.2356 - Val RMSE: 296.0865 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 15/25: Loss: 73166.4291 - Val Loss: 87458.4760 - Val RMSE: 295.7338 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 16/25: Loss: 66180.1750 - Val Loss: 87449.8301 - Val RMSE: 295.7192 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 17/25: Loss: 92166.0656 - Val Loss: 87286.6546 - Val RMSE: 295.4431 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 18/25: Loss: 89249.8200 - Val Loss: 87325.2316 - Val RMSE: 295.5084 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 77692.8402 - Val Loss: 87316.2059 - Val RMSE: 295.4932 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 20/25: Loss: 77583.7455 - Val Loss: 87275.4479 - Val RMSE: 295.4242 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 21/25: Loss: 68857.8337 - Val Loss: 87425.0505 - Val RMSE: 295.6773 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 22/25: Loss: 71089.6934 - Val Loss: 87480.4247 - Val RMSE: 295.7709 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 23/25: Loss: 88653.7689 - Val Loss: 87264.9631 - Val RMSE: 295.4064 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 24/25: Loss: 114483.6584 - Val Loss: 87122.1675 - Val RMSE: 295.1646 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 25/25: Loss: 83466.7130 - Val Loss: 87098.3526 - Val RMSE: 295.1243 - Val R^2: 0.9211
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 78818.3231 - Val Loss: 87160.3750 - Val RMSE: 295.2294 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 2/25: Loss: 83316.3076 - Val Loss: 87348.4872 - Val RMSE: 295.5478 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 3/25: Loss: 72689.6052 - Val Loss: 87152.1226 - Val RMSE: 295.2154 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 92929.9532 - Val Loss: 87184.3413 - Val RMSE: 295.2699 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 5/25: Loss: 74403.6995 - Val Loss: 87034.8982 - Val RMSE: 295.0168 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 6/25: Loss: 69145.2542 - Val Loss: 87332.3478 - Val RMSE: 295.5204 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/25: Loss: 85513.0110 - Val Loss: 87489.2885 - Val RMSE: 295.7859 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 8/25: Loss: 63490.2848 - Val Loss: 87409.5954 - Val RMSE: 295.6511 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 9/25: Loss: 87370.6691 - Val Loss: 87388.0128 - Val RMSE: 295.6146 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 10/25: Loss: 84466.2173 - Val Loss: 87407.8261 - Val RMSE: 295.6482 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 11/25: Loss: 79628.0519 - Val Loss: 87228.5393 - Val RMSE: 295.3448 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 12/25: Loss: 101582.9403 - Val Loss: 87128.3822 - Val RMSE: 295.1752 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 13/25: Loss: 88036.5603 - Val Loss: 87251.8646 - Val RMSE: 295.3843 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 14/25: Loss: 87329.8252 - Val Loss: 87048.7268 - Val RMSE: 295.0402 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 15/25: Loss: 70380.7240 - Val Loss: 87216.3502 - Val RMSE: 295.3241 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 16/25: Loss: 82656.3691 - Val Loss: 87130.2628 - Val RMSE: 295.1783 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 17/25: Loss: 77185.3362 - Val Loss: 87282.7692 - Val RMSE: 295.4366 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 18/25: Loss: 72542.5163 - Val Loss: 87303.4127 - Val RMSE: 295.4715 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 71540.4813 - Val Loss: 87326.3101 - Val RMSE: 295.5102 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 20/25: Loss: 90638.3062 - Val Loss: 87232.7404 - Val RMSE: 295.3519 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 82879.8441 - Val Loss: 87244.8157 - Val RMSE: 295.3723 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 22/25: Loss: 77842.8061 - Val Loss: 87265.7027 - Val RMSE: 295.4077 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 93051.7295 - Val Loss: 87251.2925 - Val RMSE: 295.3833 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 24/25: Loss: 79810.8664 - Val Loss: 87350.2861 - Val RMSE: 295.5508 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 76726.0099 - Val Loss: 87154.8974 - Val RMSE: 295.2201 - Val R^2: 0.9210
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 73317.6811 - Val Loss: 87135.4215 - Val RMSE: 295.1871 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 2/25: Loss: 90382.9434 - Val Loss: 87011.7179 - Val RMSE: 294.9775 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/25: Loss: 87576.4697 - Val Loss: 87121.5681 - Val RMSE: 295.1636 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 4/25: Loss: 80765.8693 - Val Loss: 87080.3101 - Val RMSE: 295.0937 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 5/25: Loss: 72833.7355 - Val Loss: 87276.7027 - Val RMSE: 295.4263 - Val R^2: 0.9214
+
+Validation loss did not improve
+Epoch 6/25: Loss: 71294.3530 - Val Loss: 87524.7941 - Val RMSE: 295.8459 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 7/25: Loss: 100420.5344 - Val Loss: 87427.0401 - Val RMSE: 295.6806 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 8/25: Loss: 85556.6501 - Val Loss: 87522.3421 - Val RMSE: 295.8417 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 9/25: Loss: 74247.2421 - Val Loss: 87598.8470 - Val RMSE: 295.9710 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 10/25: Loss: 65896.8340 - Val Loss: 87433.5216 - Val RMSE: 295.6916 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 11/25: Loss: 99111.5828 - Val Loss: 87064.8317 - Val RMSE: 295.0675 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 12/25: Loss: 74720.6621 - Val Loss: 87209.3093 - Val RMSE: 295.3122 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 13/25: Loss: 95472.9120 - Val Loss: 87105.3494 - Val RMSE: 295.1362 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 14/25: Loss: 80945.3317 - Val Loss: 87212.1595 - Val RMSE: 295.3171 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 15/25: Loss: 88508.1677 - Val Loss: 86887.3277 - Val RMSE: 294.7666 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 16/25: Loss: 71145.8438 - Val Loss: 86824.4143 - Val RMSE: 294.6598 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 17/25: Loss: 76358.6211 - Val Loss: 86746.9639 - Val RMSE: 294.5284 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 18/25: Loss: 82070.3941 - Val Loss: 86741.5625 - Val RMSE: 294.5192 - Val R^2: 0.9211
+
+Validation loss decreased
+Epoch 19/25: Loss: 86765.3012 - Val Loss: 86483.2003 - Val RMSE: 294.0803 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 20/25: Loss: 63588.9975 - Val Loss: 86689.3277 - Val RMSE: 294.4305 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 92607.6903 - Val Loss: 86848.0665 - Val RMSE: 294.6999 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 22/25: Loss: 67924.6903 - Val Loss: 86901.4696 - Val RMSE: 294.7906 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 23/25: Loss: 96978.8188 - Val Loss: 86818.8053 - Val RMSE: 294.6503 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 24/25: Loss: 57275.2628 - Val Loss: 87127.5008 - Val RMSE: 295.1737 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 25/25: Loss: 92557.2698 - Val Loss: 86858.8429 - Val RMSE: 294.7182 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 82278.6677 - Val Loss: 86714.2083 - Val RMSE: 294.4728 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 2/25: Loss: 81408.8980 - Val Loss: 86715.7212 - Val RMSE: 294.4753 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/25: Loss: 73015.4800 - Val Loss: 87210.2236 - Val RMSE: 295.3138 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/25: Loss: 83965.0900 - Val Loss: 87087.7708 - Val RMSE: 295.1064 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/25: Loss: 84558.3164 - Val Loss: 86982.8333 - Val RMSE: 294.9285 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 6/25: Loss: 74319.1598 - Val Loss: 86749.7196 - Val RMSE: 294.5330 - Val R^2: 0.9208
+
+Validation loss decreased
+Epoch 7/25: Loss: 77435.3341 - Val Loss: 86669.2163 - Val RMSE: 294.3964 - Val R^2: 0.9207
+
+Validation loss decreased
+Epoch 8/25: Loss: 78362.8916 - Val Loss: 86607.6530 - Val RMSE: 294.2918 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 9/25: Loss: 63490.3600 - Val Loss: 86951.2845 - Val RMSE: 294.8750 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 10/25: Loss: 69659.4696 - Val Loss: 86974.1538 - Val RMSE: 294.9138 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 11/25: Loss: 76022.3653 - Val Loss: 86972.1018 - Val RMSE: 294.9104 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 12/25: Loss: 89334.2080 - Val Loss: 86989.6755 - Val RMSE: 294.9401 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 13/25: Loss: 80619.8896 - Val Loss: 87155.2724 - Val RMSE: 295.2207 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 14/25: Loss: 83890.4726 - Val Loss: 87169.8365 - Val RMSE: 295.2454 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 15/25: Loss: 93855.0472 - Val Loss: 87056.1434 - Val RMSE: 295.0528 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 65251.7466 - Val Loss: 87192.9367 - Val RMSE: 295.2845 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 17/25: Loss: 77034.9471 - Val Loss: 87273.4255 - Val RMSE: 295.4208 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 18/25: Loss: 68175.2369 - Val Loss: 87427.1915 - Val RMSE: 295.6809 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 19/25: Loss: 69142.7592 - Val Loss: 87645.1218 - Val RMSE: 296.0492 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 20/25: Loss: 72267.0687 - Val Loss: 87562.7003 - Val RMSE: 295.9099 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 21/25: Loss: 82104.3082 - Val Loss: 87382.3926 - Val RMSE: 295.6051 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 22/25: Loss: 97721.1413 - Val Loss: 87162.5986 - Val RMSE: 295.2331 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 23/25: Loss: 82220.4635 - Val Loss: 87218.5585 - Val RMSE: 295.3279 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 87696.4208 - Val Loss: 87086.5008 - Val RMSE: 295.1042 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 84181.6831 - Val Loss: 87287.7644 - Val RMSE: 295.4450 - Val R^2: 0.9213
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 78920.1726 - Val Loss: 87356.9359 - Val RMSE: 295.5621 - Val R^2: 0.9213
+
+Validation loss decreased
+Epoch 2/25: Loss: 82195.2743 - Val Loss: 87324.0801 - Val RMSE: 295.5065 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 3/25: Loss: 70751.4627 - Val Loss: 87334.9591 - Val RMSE: 295.5249 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 4/25: Loss: 71266.6961 - Val Loss: 87385.9423 - Val RMSE: 295.6111 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 5/25: Loss: 85968.0521 - Val Loss: 87308.7492 - Val RMSE: 295.4805 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 6/25: Loss: 85019.2815 - Val Loss: 87561.8870 - Val RMSE: 295.9085 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 7/25: Loss: 71540.7388 - Val Loss: 87573.8790 - Val RMSE: 295.9288 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 8/25: Loss: 96381.6957 - Val Loss: 87563.4495 - Val RMSE: 295.9112 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 9/25: Loss: 84090.2774 - Val Loss: 87566.7652 - Val RMSE: 295.9168 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 10/25: Loss: 70373.8068 - Val Loss: 87760.4319 - Val RMSE: 296.2439 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 11/25: Loss: 71292.1614 - Val Loss: 87907.5184 - Val RMSE: 296.4920 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 12/25: Loss: 81080.3304 - Val Loss: 87873.4575 - Val RMSE: 296.4346 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 13/25: Loss: 64054.1633 - Val Loss: 87837.3101 - Val RMSE: 296.3736 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 14/25: Loss: 90332.7181 - Val Loss: 87855.8109 - Val RMSE: 296.4048 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 15/25: Loss: 71991.8805 - Val Loss: 87773.6394 - Val RMSE: 296.2662 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 16/25: Loss: 68546.5874 - Val Loss: 87777.2788 - Val RMSE: 296.2723 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 17/25: Loss: 85699.5172 - Val Loss: 87528.6579 - Val RMSE: 295.8524 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 18/25: Loss: 86296.9365 - Val Loss: 87390.1474 - Val RMSE: 295.6183 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 72606.4906 - Val Loss: 87519.5417 - Val RMSE: 295.8370 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 20/25: Loss: 82156.4217 - Val Loss: 87429.9551 - Val RMSE: 295.6856 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 21/25: Loss: 87565.9701 - Val Loss: 87510.7003 - Val RMSE: 295.8221 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 22/25: Loss: 83062.1945 - Val Loss: 87517.4415 - Val RMSE: 295.8335 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 23/25: Loss: 72607.3385 - Val Loss: 87687.4567 - Val RMSE: 296.1207 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 24/25: Loss: 94738.6090 - Val Loss: 87369.2772 - Val RMSE: 295.5830 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 25/25: Loss: 75532.1503 - Val Loss: 87382.1867 - Val RMSE: 295.6048 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 73558.3710 - Val Loss: 87369.3269 - Val RMSE: 295.5830 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 2/25: Loss: 80020.0950 - Val Loss: 87353.8349 - Val RMSE: 295.5568 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 3/25: Loss: 61534.2517 - Val Loss: 87311.9615 - Val RMSE: 295.4860 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 4/25: Loss: 87383.5846 - Val Loss: 87446.5681 - Val RMSE: 295.7137 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 5/25: Loss: 73804.1710 - Val Loss: 87465.9792 - Val RMSE: 295.7464 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 6/25: Loss: 81108.7687 - Val Loss: 87538.6378 - Val RMSE: 295.8693 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 7/25: Loss: 78064.0432 - Val Loss: 87485.5521 - Val RMSE: 295.7796 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 8/25: Loss: 102896.4896 - Val Loss: 87331.7067 - Val RMSE: 295.5194 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 9/25: Loss: 62717.2521 - Val Loss: 87553.8854 - Val RMSE: 295.8951 - Val R^2: 0.9208
+
+Validation loss did not improve
+Epoch 10/25: Loss: 101535.7367 - Val Loss: 87335.5216 - Val RMSE: 295.5258 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 11/25: Loss: 77424.7519 - Val Loss: 87323.9295 - Val RMSE: 295.5062 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 12/25: Loss: 83435.3570 - Val Loss: 87197.5304 - Val RMSE: 295.2923 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 13/25: Loss: 70446.6407 - Val Loss: 87566.1130 - Val RMSE: 295.9157 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 14/25: Loss: 80531.6822 - Val Loss: 87206.5417 - Val RMSE: 295.3075 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 15/25: Loss: 61162.9666 - Val Loss: 87484.0032 - Val RMSE: 295.7770 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 16/25: Loss: 65809.0347 - Val Loss: 87720.0016 - Val RMSE: 296.1756 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 17/25: Loss: 108580.1290 - Val Loss: 87392.5216 - Val RMSE: 295.6223 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 18/25: Loss: 71165.7416 - Val Loss: 87504.9567 - Val RMSE: 295.8123 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 19/25: Loss: 79545.8451 - Val Loss: 87373.3429 - Val RMSE: 295.5898 - Val R^2: 0.9207
+
+Validation loss decreased
+Epoch 20/25: Loss: 85721.5453 - Val Loss: 87003.9167 - Val RMSE: 294.9643 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 21/25: Loss: 81646.5449 - Val Loss: 87279.8990 - Val RMSE: 295.4317 - Val R^2: 0.9207
+
+Validation loss decreased
+Epoch 22/25: Loss: 89569.5649 - Val Loss: 86976.4095 - Val RMSE: 294.9176 - Val R^2: 0.9206
+
+Validation loss did not improve
+Epoch 23/25: Loss: 80532.4706 - Val Loss: 87117.1066 - Val RMSE: 295.1561 - Val R^2: 0.9206
+
+Validation loss did not improve
+Epoch 24/25: Loss: 91882.1259 - Val Loss: 87126.2644 - Val RMSE: 295.1716 - Val R^2: 0.9207
+
+Validation loss did not improve
+Epoch 25/25: Loss: 76277.0982 - Val Loss: 87267.7420 - Val RMSE: 295.4112 - Val R^2: 0.9209
+RMS mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 83643.6824 - Val Loss: 87524.9103 - Val RMSE: 295.8461 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 2/25: Loss: 72919.6112 - Val Loss: 87484.5865 - Val RMSE: 295.7779 - Val R^2: 0.9210
+
+Validation loss did not improve
+Epoch 3/25: Loss: 68688.0441 - Val Loss: 87617.3798 - Val RMSE: 296.0023 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 4/25: Loss: 71183.7966 - Val Loss: 87449.7596 - Val RMSE: 295.7191 - Val R^2: 0.9209
+
+Validation loss decreased
+Epoch 5/25: Loss: 83130.8251 - Val Loss: 87397.4808 - Val RMSE: 295.6306 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 6/25: Loss: 70651.1917 - Val Loss: 87580.3926 - Val RMSE: 295.9398 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 7/25: Loss: 68676.3104 - Val Loss: 87457.8910 - Val RMSE: 295.7328 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 8/25: Loss: 90332.4082 - Val Loss: 87292.8429 - Val RMSE: 295.4536 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 9/25: Loss: 102434.5488 - Val Loss: 87037.1298 - Val RMSE: 295.0206 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 10/25: Loss: 89599.4952 - Val Loss: 86718.8582 - Val RMSE: 294.4806 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 11/25: Loss: 69427.2008 - Val Loss: 86896.2091 - Val RMSE: 294.7816 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 12/25: Loss: 82187.6666 - Val Loss: 86829.7236 - Val RMSE: 294.6688 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 13/25: Loss: 68134.7584 - Val Loss: 87095.2396 - Val RMSE: 295.1190 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 14/25: Loss: 55429.2494 - Val Loss: 87432.7292 - Val RMSE: 295.6902 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 15/25: Loss: 73977.1679 - Val Loss: 87442.0024 - Val RMSE: 295.7059 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 16/25: Loss: 94871.8103 - Val Loss: 87402.4551 - Val RMSE: 295.6390 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 17/25: Loss: 70372.4628 - Val Loss: 87399.3574 - Val RMSE: 295.6338 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 18/25: Loss: 94216.1428 - Val Loss: 87149.4199 - Val RMSE: 295.2108 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 19/25: Loss: 85783.5689 - Val Loss: 87228.5160 - Val RMSE: 295.3447 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 20/25: Loss: 74791.1336 - Val Loss: 87311.5929 - Val RMSE: 295.4854 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 21/25: Loss: 74467.7872 - Val Loss: 87378.1074 - Val RMSE: 295.5979 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 22/25: Loss: 83031.9945 - Val Loss: 87407.6787 - Val RMSE: 295.6479 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 23/25: Loss: 64204.2029 - Val Loss: 87528.7644 - Val RMSE: 295.8526 - Val R^2: 0.9211
+
+Validation loss did not improve
+Epoch 24/25: Loss: 69110.6825 - Val Loss: 87833.2700 - Val RMSE: 296.3668 - Val R^2: 0.9209
+
+Validation loss did not improve
+Epoch 25/25: Loss: 80951.7922 - Val Loss: 87844.7740 - Val RMSE: 296.3862 - Val R^2: 0.9210
+Adam mode Start
+
+Validation loss decreased
+Epoch 1/25: Loss: 61921.4948 - Val Loss: 87955.0353 - Val RMSE: 296.5721 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 2/25: Loss: 83014.2098 - Val Loss: 87753.1338 - Val RMSE: 296.2315 - Val R^2: 0.9210
+
+Validation loss decreased
+Epoch 3/25: Loss: 74312.3771 - Val Loss: 87637.0769 - Val RMSE: 296.0356 - Val R^2: 0.9212
+
+Validation loss decreased
+Epoch 4/25: Loss: 69316.9040 - Val Loss: 87535.4824 - Val RMSE: 295.8639 - Val R^2: 0.9213
+
+Validation loss did not improve
+Epoch 5/25: Loss: 74016.2240 - Val Loss: 87773.8438 - Val RMSE: 296.2665 - Val R^2: 0.9212
+
+Validation loss did not improve
+Epoch 6/25: Loss: 69516.9623 - Val Loss: 87778.4287 - Val RMSE: 296.2742 - Val R^2: 0.9212
